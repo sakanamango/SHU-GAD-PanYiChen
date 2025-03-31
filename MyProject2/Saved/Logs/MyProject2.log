@@ -1496,3 +1496,45 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.31-18.40.32:890][ 96]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 366.897888
 [2025.03.31-18.40.34:223][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.31-18.40.34:224][100]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 367.898499, Update Interval: 321.698669
+[2025.03.31-18.44.31:556][810]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2025.03.31-18.44.31:566][810]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.252
+[2025.03.31-18.44.31:570][810]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WwiseAudio/DefaultGeometrySurfacePropertiesTable] ([1] browsable assets)...
+[2025.03.31-18.44.31:571][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/WwiseAudio/DefaultGeometrySurfacePropertiesTable]
+[2025.03.31-18.44.31:583][810]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WwiseAudio/DefaultGeometrySurfacePropertiesTable_Auto1
+[2025.03.31-18.44.31:583][810]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/DefaultGeometrySurfaceProperties0641A1FF4892D2EB9A3AB9994D3C5E8E.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Autosaves/Game/WwiseAudio/DefaultGeometrySurfacePropertiesTable_Auto1.uasset'
+[2025.03.31-18.44.31:588][810]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WwiseAudio/DefaultReverbAssignmentTable] ([1] browsable assets)...
+[2025.03.31-18.44.31:588][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/WwiseAudio/DefaultReverbAssignmentTable]
+[2025.03.31-18.44.31:588][810]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WwiseAudio/DefaultReverbAssignmentTable_Auto1
+[2025.03.31-18.44.31:588][810]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/DefaultReverbAssignmentTable_AutC338B3AB4EA42F564B18148C9E1A3236.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Autosaves/Game/WwiseAudio/DefaultReverbAssignmentTable_Auto1.uasset'
+[2025.03.31-18.44.31:589][810]LogFileHelpers: Auto-saving content packages took 0.022
+[2025.03.31-18.45.28:549][132]LogSlate: Took 0.002978 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.03.31-18.45.33:128][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.31-18.45.33:137][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-18.45.33:195][395]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WwiseAudio/DefaultGeometrySurfacePropertiesTable] ([1] browsable assets)...
+[2025.03.31-18.45.33:195][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/WwiseAudio/DefaultGeometrySurfacePropertiesTable]
+[2025.03.31-18.45.33:196][395]LogSavePackage: Moving output files for package: /Game/WwiseAudio/DefaultGeometrySurfacePropertiesTable
+[2025.03.31-18.45.33:196][395]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/DefaultGeometrySurfaceProperties2D07D2FA48DA81945A8DD8900DC7F691.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/WwiseAudio/DefaultGeometrySurfacePropertiesTable.uasset'
+[2025.03.31-18.45.33:202][395]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WwiseAudio/DefaultReverbAssignmentTable] ([1] browsable assets)...
+[2025.03.31-18.45.33:203][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/WwiseAudio/DefaultReverbAssignmentTable]
+[2025.03.31-18.45.33:203][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WwiseAudio/DefaultReverbAssignmentTable" FILE="../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/WwiseAudio/DefaultReverbAssignmentTable.uasset" SILENT=true
+[2025.03.31-18.45.33:203][395]LogSavePackage: Moving output files for package: /Game/WwiseAudio/DefaultReverbAssignmentTable
+[2025.03.31-18.45.33:203][395]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/DefaultReverbAssignmentTable2DB8C5B94C65E80906DA24BBBBF2401A.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/WwiseAudio/DefaultReverbAssignmentTable.uasset'
+[2025.03.31-18.45.33:216][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.981 ms (total: 82.369 ms)
+[2025.03.31-18.45.33:254][395]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.31-18.45.33:254][395]LogContentValidation: Enabled validators:
+[2025.03.31-18.45.33:256][395]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-18.45.33:256][395]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-18.45.33:256][395]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-18.45.33:256][395]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-18.45.33:256][395]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-18.45.33:256][395]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-18.45.33:257][395]AssetCheck: /Game/WwiseAudio/DefaultGeometrySurfacePropertiesTable Validating asset
+[2025.03.31-18.45.33:258][395]AssetCheck: /Game/WwiseAudio/DefaultReverbAssignmentTable Validating asset
+[2025.03.31-18.45.50:988][572]LogAkAudio: Successfully connected to Wwise Authoring on localhost.
+[2025.03.31-18.45.59:920][598]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 693.928406
+[2025.03.31-18.46.01:254][602]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-18.46.01:254][603]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 694.928406, Update Interval: 317.688538
+[2025.03.31-18.47.52:173][976]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.03.31-18.47.54:156][981]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53346'.
+[2025.03.31-18.47.54:164][981]LogUdpMessaging: Display: Added local interface '26.243.124.218' to multicast group '230.0.0.1:6666'
+[2025.03.31-18.47.54:165][981]LogUdpMessaging: Display: Added local interface '10.88.58.137' to multicast group '230.0.0.1:6666'

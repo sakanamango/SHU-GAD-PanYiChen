@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/WwiseAudio/WwiseMultiReferenceAssetLibrary.uasset"
+				"E:/Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/WwiseAudio/WwiseMultiReferenceAssetLibrary.uasset",
+				"E:/Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/WwiseAudio/DefaultGeometrySurfacePropertiesTable.uasset",
+				"E:/Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/WwiseAudio/DefaultReverbAssignmentTable.uasset"
 			]
 		}
 	]
