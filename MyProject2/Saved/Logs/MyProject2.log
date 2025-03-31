@@ -1538,3 +1538,1209 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.31-18.47.54:156][981]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53346'.
 [2025.03.31-18.47.54:164][981]LogUdpMessaging: Display: Added local interface '26.243.124.218' to multicast group '230.0.0.1:6666'
 [2025.03.31-18.47.54:165][981]LogUdpMessaging: Display: Added local interface '10.88.58.137' to multicast group '230.0.0.1:6666'
+[2025.03.31-18.51.25:211][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1019.218201
+[2025.03.31-18.51.26:211][618]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-18.51.26:211][618]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1019.884949, Update Interval: 316.355469
+[2025.03.31-18.55.29:860][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.03.31-18.55.29:860][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.03.31-18.55.29:912][615]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_BC0FF35D2101975A02_1768608111
+[2025.03.31-18.55.29:930][615]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_BC0FF35D2101975A02_1768608111
+[2025.03.31-18.56.01:269][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.31-18.56.01:284][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Autosaves/Temp/Untitled_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.03.31-18.56.01:295][456]LogSavePackage: Moving output files for package: /Temp/Autosaves/Temp/Untitled_1_Auto2
+[2025.03.31-18.56.01:295][456]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Untitled_1_Auto2C95EABA344953BEB0D7973887DF1F673.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2025.03.31-18.56.01:298][456]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.045
+[2025.03.31-18.56.01:298][456]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2025.03.31-18.56.57:165][ 53]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1351.168823
+[2025.03.31-18.56.57:798][ 91]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-18.56.57:798][ 91]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1351.786743, Update Interval: 357.799011
+[2025.03.31-18.59.45:920][ 19]Cmd: TRANSACTION UNDO
+[2025.03.31-18.59.45:921][ 19]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.31-19.03.24:779][ 77]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1738.784668
+[2025.03.31-19.03.25:146][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-19.03.25:146][100]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1739.134766, Update Interval: 316.547760
+[2025.03.31-19.04.05:669][115]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.31-19.04.05:693][115]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.31-19.04.05:699][115]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.31-19.04.05:731][117]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.31-19.04.07:449][214]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.03.31-19.04.07:522][214]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.31-19.04.07:595][216]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/OpenWorldTemplate/NewBlueprint.NewBlueprint
+[2025.03.31-19.04.07:604][216]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2025.03.31-19.04.07:685][216]LogSlate: Took 0.000881 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.03.31-19.04.07:789][216]LogStreaming: Display: FlushAsyncLoading(501): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.31-19.04.09:545][216]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.03.31-19.04.09:553][216]LogStaticMesh: Built static mesh [0.03s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.03.31-19.04.10:074][216]LogSlate: Took 0.006715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.03.31-19.04.47:340][345]LogSlate: Took 0.002213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.03.31-19.07.55:791][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.03.31-19.07.55:793][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Autosaves/Temp/Untitled_1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.03.31-19.07.55:796][126]LogSavePackage: Moving output files for package: /Temp/Autosaves/Temp/Untitled_1_Auto3
+[2025.03.31-19.07.55:796][126]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Untitled_1_Auto3C6CA86D546D7CB8EF71BE3BD0114A065.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Autosaves/Temp/Untitled_1_Auto3.umap'
+[2025.03.31-19.07.55:797][126]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.056
+[2025.03.31-19.07.55:797][126]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2025.03.31-19.07.55:797][126]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/OpenWorldTemplate/NewBlueprint] ([2] browsable assets)...
+[2025.03.31-19.07.55:797][126]OBJ SavePackage: Finished generating thumbnails for package [/Engine/OpenWorldTemplate/NewBlueprint]
+[2025.03.31-19.07.55:802][126]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/OpenWorldTemplate/NewBlueprint_Auto3
+[2025.03.31-19.07.55:802][126]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/NewBlueprint_Auto392E9039042772D00145500AEFDEF133C.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Autosaves/Engine/OpenWorldTemplate/NewBlueprint_Auto3.uasset'
+[2025.03.31-19.07.55:803][126]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.03.31-19.09.27:736][402]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2101.735596
+[2025.03.31-19.09.28:732][405]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-19.09.28:732][405]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2102.403076, Update Interval: 341.525940
+[2025.03.31-19.10.54:892][114]LogSlate: Window 'NewBlueprint' being destroyed
+[2025.03.31-19.10.54:937][114]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-19.10.54:941][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-19.10.55:066][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.03.31-19.11.00:461][349]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.31-19.11.00:496][349]LogContentBrowser: Deferred new asset file creation: NewBlueprint1
+[2025.03.31-19.11.00:501][349]LogContentBrowser: Creating deferred item: NewBlueprint1
+[2025.03.31-19.11.00:516][350]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint1).
+[2025.03.31-19.11.04:760][597]LogContentBrowser: Attempting asset rename: NewBlueprint1 -> NewBlueprint1
+[2025.03.31-19.11.04:780][597]LogContentBrowser: End creating deferred item NewBlueprint1
+[2025.03.31-19.11.05:768][654]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/OpenWorldTemplate/NewBlueprint1.NewBlueprint1
+[2025.03.31-19.11.05:777][654]LogChaosDD: Creating Chaos Debug Draw Scene for world World_3
+[2025.03.31-19.16.09:385][667]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2503.399902
+[2025.03.31-19.16.09:768][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-19.16.09:768][691]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2503.765869, Update Interval: 331.000702
+[2025.03.31-19.17.56:283][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.03.31-19.17.56:285][  1]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.048
+[2025.03.31-19.17.56:286][  1]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/OpenWorldTemplate/NewBlueprint] ([2] browsable assets)...
+[2025.03.31-19.17.56:286][  1]OBJ SavePackage: Finished generating thumbnails for package [/Engine/OpenWorldTemplate/NewBlueprint]
+[2025.03.31-19.17.56:290][  1]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/OpenWorldTemplate/NewBlueprint_Auto4
+[2025.03.31-19.17.56:290][  1]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/NewBlueprint_Auto46DC72AF245309B9836E1FFB5BA6386C2.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Autosaves/Engine/OpenWorldTemplate/NewBlueprint_Auto4.uasset'
+[2025.03.31-19.17.56:291][  1]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/OpenWorldTemplate/NewBlueprint1] ([2] browsable assets)...
+[2025.03.31-19.17.56:291][  1]OBJ SavePackage: Finished generating thumbnails for package [/Engine/OpenWorldTemplate/NewBlueprint1]
+[2025.03.31-19.17.56:295][  1]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/OpenWorldTemplate/NewBlueprint1_Auto4
+[2025.03.31-19.17.56:295][  1]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/NewBlueprint1_Auto4EBCC6CD142AAB53FE511C7B4366F9111.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Autosaves/Engine/OpenWorldTemplate/NewBlueprint1_Auto4.uasset'
+[2025.03.31-19.17.56:295][  1]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.03.31-19.22.29:412][890]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2883.435059
+[2025.03.31-19.22.29:779][912]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-19.22.29:779][913]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2883.785400, Update Interval: 339.755249
+[2025.03.31-19.27.51:386][976]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-19.27.51:407][976]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.31-19.27.51:407][976]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2025.03.31-19.27.51:425][976]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 17.700 ms
+[2025.03.31-19.27.51:435][976]LogPlayLevel: [PlayLevel] Compiling NewBlueprint1 before play...
+[2025.03.31-19.27.51:491][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.03.31-19.27.51:493][976]LogPlayLevel: PlayLevel: Blueprint regeneration took 58 ms (1 blueprints)
+[2025.03.31-19.27.51:554][976]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.03.31-19.27.51:556][976]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.03.31-19.27.51:558][976]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2025.03.31-19.27.51:597][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039975s)
+[2025.03.31-19.27.51:598][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.040598s)
+[2025.03.31-19.27.51:614][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.31-19.27.51:618][976]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2025.03.31-19.27.51:631][976]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.31-19.27.51:631][976]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-19.27.51:632][976]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-19.27.51:632][976]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.31-19.27.51:641][976]LogWorldPartition: Display: WorldPartition initialize took 10.111 ms (total: 243.058 ms)
+[2025.03.31-19.27.51:643][976]LogPlayLevel: PIE: World Init took: (0.025303s)
+[2025.03.31-19.27.51:646][976]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.03.31-19.27.51:647][976]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-19.27.51:647][976]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-19.27.51:647][976]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-19.27.51:647][976]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-19.27.51:647][976]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.31-19.27.51:647][976]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-19.27.51:647][976]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.31-19.27.51:647][976]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-19.27.51:649][976]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-19.27.51:649][976]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-19.27.51:649][976]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-19.27.51:653][976]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-19.27.51:947][976]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2025.03.31-19.27.51:950][976]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-19.27.51:950][976]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-19.27.51:950][976]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-19.27.51:953][976]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.03.31-19.27.51:953][976]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.03.31-19.27.51:958][976]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.03.31-19.27.51:958][976]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.03.31-19.27.51:958][976]LogInit: FAudioDevice initialized with ID 2.
+[2025.03.31-19.27.51:958][976]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2025.03.31-19.27.51:959][976]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.31-19.27.51:990][976]LogLoad: Game class is 'GameModeBase'
+[2025.03.31-19.27.51:997][976]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2025.04.01-03.27.51
+[2025.03.31-19.27.51:998][976]LogWorld: Bringing up level for play took: 0.006988
+[2025.03.31-19.27.52:004][976]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.03.31-19.27.52:096][976]LogStreaming: Display: FlushAsyncLoading(735,734,733,732,731,730,729,728,727,726,725,724,723,722,721,720,719,718,717,716,715,714,713,712,711,710,709,708,707,706,705,704,703,702,701,700,699,698,697,696,695,694,693): 43 QueuedPackages, 0 AsyncPackages
+[2025.03.31-19.27.52:259][976]LogTexture: Display: Waiting for textures to be ready 109/516 (/Memory/UEDPIE_0_6YBPCGZ6IMFSDXMY2WMM8NEU8_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/IN/38GJJAUSXTLENXKEDEFGSU) ...
+[2025.03.31-19.27.52:274][976]LogTexture: Display: Waiting for textures to be ready 168/516 (/Memory/UEDPIE_0_BIYU2GOM0IZEPM6EBMI15CLZL_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/9/9M/76V7GBFY28HAZWO7KGINSN) ...
+[2025.03.31-19.27.52:290][976]LogTexture: Display: Waiting for textures to be ready 223/516 (/Memory/UEDPIE_0_8IAXS7O9F7UOA08WG6NEN9QX6_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/V8/DG1H4UL6K2RINN5XMKLRZA) ...
+[2025.03.31-19.27.52:306][976]LogTexture: Display: Waiting for textures to be ready 296/516 (/Memory/UEDPIE_0_1PWGG63FWIK90PG8VE73F030B_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/9/OG/GRLOHBEDGLRDJ7ALVKWBR4) ...
+[2025.03.31-19.27.52:323][976]LogTexture: Display: Waiting for textures to be ready 370/516 (/Memory/UEDPIE_0_2ZT9PWEMJ3CN2HX5BZ3YIKUHA_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/7Y/G4WW8N40GC4GTU6EVBCMSZ) ...
+[2025.03.31-19.27.52:339][976]LogTexture: Display: Waiting for textures to be ready 456/516 (/Memory/UEDPIE_0_BAMPWXQRFWPMYFNQEZVPDLSQZ_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/DH/CGZKHGOFN0M7BUZD4OUIKT) ...
+[2025.03.31-19.27.52:391][976]PIE: Server logged in
+[2025.03.31-19.27.52:394][976]PIE: Play in editor total start time 0.991 seconds.
+[2025.03.31-19.27.57:680][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-19.27.57:680][121]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2025.03.31-19.27.57:689][121]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-19.27.57:690][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-19.27.57:690][121]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1
+[2025.03.31-19.27.57:708][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.31-19.27.57:712][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-19.27.57:734][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-19.27.57:736][121]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.31-19.27.57:737][121]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.31-19.27.57:742][121]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.31-19.27.57:767][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.31-19.27.57:863][122]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.03.31-19.28.24:940][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.03.31-19.28.24:942][722]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.022
+[2025.03.31-19.28.24:943][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/OpenWorldTemplate/NewBlueprint1] ([2] browsable assets)...
+[2025.03.31-19.28.24:943][722]OBJ SavePackage: Finished generating thumbnails for package [/Engine/OpenWorldTemplate/NewBlueprint1]
+[2025.03.31-19.28.24:947][722]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/OpenWorldTemplate/NewBlueprint1_Auto5
+[2025.03.31-19.28.24:947][722]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/NewBlueprint1_Auto5B54025104AD9515319436D971CC72630.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Autosaves/Engine/OpenWorldTemplate/NewBlueprint1_Auto5.uasset'
+[2025.03.31-19.28.24:947][722]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.03.31-19.28.50:000][223]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3264.027344
+[2025.03.31-19.28.50:384][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-19.28.50:384][247]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3264.394775, Update Interval: 309.140900
+[2025.03.31-19.34.36:665][ 21]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3610.704102
+[2025.03.31-19.34.37:031][ 43]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-19.34.37:031][ 43]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3611.053955, Update Interval: 320.905792
+[2025.03.31-19.36.21:136][289]LogDerivedDataCache: C:/Users/86133/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.31-19.37.52:536][763]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-19.37.52:593][763]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/OpenWorldTemplate/NewBlueprint1] ([2] browsable assets)...
+[2025.03.31-19.37.52:593][763]OBJ SavePackage: Finished generating thumbnails for package [/Engine/OpenWorldTemplate/NewBlueprint1]
+[2025.03.31-19.37.52:593][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/OpenWorldTemplate/NewBlueprint1" FILE="../../../Engine/Content/OpenWorldTemplate/NewBlueprint1.uasset" SILENT=true
+[2025.03.31-19.37.52:599][763]LogSavePackage: Moving output files for package: /Engine/OpenWorldTemplate/NewBlueprint1
+[2025.03.31-19.37.52:599][763]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/NewBlueprint17CE2F9E6479B07848FEB4EB8C8C99965.tmp' to '../../../Engine/Content/OpenWorldTemplate/NewBlueprint1.uasset'
+[2025.03.31-19.37.52:616][763]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.574 ms (total: 162.943 ms)
+[2025.03.31-19.37.52:660][763]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.31-19.37.52:660][763]LogContentValidation: Enabled validators:
+[2025.03.31-19.37.52:660][763]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-19.37.52:660][763]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-19.37.52:660][763]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-19.37.52:660][763]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-19.37.52:660][763]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-19.37.52:660][763]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-19.37.52:661][763]AssetCheck: /Engine/OpenWorldTemplate/NewBlueprint1 Validating asset
+[2025.03.31-19.38.31:555][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-19.38.31:609][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/OpenWorldTemplate/NewBlueprint1] ([2] browsable assets)...
+[2025.03.31-19.38.31:609][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Engine/OpenWorldTemplate/NewBlueprint1]
+[2025.03.31-19.38.31:609][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/OpenWorldTemplate/NewBlueprint1" FILE="../../../Engine/Content/OpenWorldTemplate/NewBlueprint1.uasset" SILENT=true
+[2025.03.31-19.38.31:615][ 87]LogSavePackage: Moving output files for package: /Engine/OpenWorldTemplate/NewBlueprint1
+[2025.03.31-19.38.31:615][ 87]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/NewBlueprint147E8BFD34BE8011501B814843E08DD95.tmp' to '../../../Engine/Content/OpenWorldTemplate/NewBlueprint1.uasset'
+[2025.03.31-19.38.31:625][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.068 ms (total: 234.012 ms)
+[2025.03.31-19.38.31:673][ 87]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.31-19.38.31:673][ 87]LogContentValidation: Enabled validators:
+[2025.03.31-19.38.31:673][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-19.38.31:673][ 87]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-19.38.31:673][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-19.38.31:673][ 87]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-19.38.31:673][ 87]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-19.38.31:673][ 87]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-19.38.31:674][ 87]AssetCheck: /Engine/OpenWorldTemplate/NewBlueprint1 Validating asset
+[2025.03.31-19.38.56:471][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-19.38.56:521][222]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/OpenWorldTemplate/NewBlueprint1] ([2] browsable assets)...
+[2025.03.31-19.38.56:521][222]OBJ SavePackage: Finished generating thumbnails for package [/Engine/OpenWorldTemplate/NewBlueprint1]
+[2025.03.31-19.38.56:521][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/OpenWorldTemplate/NewBlueprint1" FILE="../../../Engine/Content/OpenWorldTemplate/NewBlueprint1.uasset" SILENT=true
+[2025.03.31-19.38.56:524][222]LogSavePackage: Moving output files for package: /Engine/OpenWorldTemplate/NewBlueprint1
+[2025.03.31-19.38.56:524][222]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/NewBlueprint13C1C19BC4C877B3EABCBCDA2DAA1DEAA.tmp' to '../../../Engine/Content/OpenWorldTemplate/NewBlueprint1.uasset'
+[2025.03.31-19.38.56:536][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.942 ms (total: 299.954 ms)
+[2025.03.31-19.38.56:582][222]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.31-19.38.56:582][222]LogContentValidation: Enabled validators:
+[2025.03.31-19.38.56:582][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-19.38.56:582][222]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-19.38.56:582][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-19.38.56:582][222]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-19.38.56:583][222]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-19.38.56:583][222]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-19.38.56:583][222]AssetCheck: /Engine/OpenWorldTemplate/NewBlueprint1 Validating asset
+[2025.03.31-19.38.57:816][293]LogSlate: Window 'NewBlueprint1' being destroyed
+[2025.03.31-19.38.57:830][293]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-19.38.57:830][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-19.38.57:894][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.31-19.39.00:356][436]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/OpenWorldTemplate/NewBlueprint1.NewBlueprint1_C
+[2025.03.31-19.39.00:356][436]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/OpenWorldTemplate/NewBlueprint1.NewBlueprint1_C
+[2025.03.31-19.39.00:358][436]LogActorFactory: Actor Factory spawned Blueprint /Engine/OpenWorldTemplate/NewBlueprint1.NewBlueprint1 as actor: NewBlueprint1_C /Temp/Untitled_1.Untitled_1:PersistentLevel.NewBlueprint1_C_0
+[2025.03.31-19.39.00:359][436]LogActorFactory: Actor Factory spawned Blueprint /Engine/OpenWorldTemplate/NewBlueprint1.NewBlueprint1 as actor: NewBlueprint1_C /Temp/Untitled_1.Untitled_1:PersistentLevel.NewBlueprint1_C_0
+[2025.03.31-19.39.00:668][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.31-19.39.00:668][452]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.03.31-19.39.00:674][452]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/OpenWorldTemplate/NewBlueprint1.NewBlueprint1_C
+[2025.03.31-19.39.00:674][452]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/OpenWorldTemplate/NewBlueprint1.NewBlueprint1_C
+[2025.03.31-19.39.00:678][452]LogActorFactory: Actor Factory spawned Blueprint /Engine/OpenWorldTemplate/NewBlueprint1.NewBlueprint1 as actor: NewBlueprint1_C /Temp/Untitled_1.Untitled_1:PersistentLevel.NewBlueprint1_C_UAID_BC0FF35D21019A5A02_1158194640
+[2025.03.31-19.39.00:679][452]LogActorFactory: Actor Factory spawned Blueprint /Engine/OpenWorldTemplate/NewBlueprint1.NewBlueprint1 as actor: NewBlueprint1_C /Temp/Untitled_1.Untitled_1:PersistentLevel.NewBlueprint1_C_UAID_BC0FF35D21019A5A02_1158194640
+[2025.03.31-19.39.04:482][675]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/OpenWorldTemplate/NewBlueprint1.NewBlueprint1
+[2025.03.31-19.39.04:482][675]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2025.03.31-19.39.17:441][403]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-19.39.17:448][403]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.31-19.39.17:448][403]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2025.03.31-19.39.17:454][403]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 5.558 ms (total: 23.258 ms)
+[2025.03.31-19.39.17:454][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.31-19.39.17:454][403]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2025.03.31-19.39.17:465][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011808s)
+[2025.03.31-19.39.17:465][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.011844s)
+[2025.03.31-19.39.17:501][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.03.31-19.39.17:504][403]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2025.03.31-19.39.17:511][403]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.31-19.39.17:511][403]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-19.39.17:511][403]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-19.39.17:511][403]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.31-19.39.17:519][403]LogWorldPartition: Display: WorldPartition initialize took 7.710 ms (total: 250.769 ms)
+[2025.03.31-19.39.17:519][403]LogPlayLevel: PIE: World Init took: (0.016109s)
+[2025.03.31-19.39.17:520][403]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.03.31-19.39.17:520][403]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-19.39.17:520][403]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-19.39.17:520][403]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-19.39.17:520][403]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-19.39.17:520][403]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.31-19.39.17:520][403]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-19.39.17:520][403]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.31-19.39.17:520][403]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-19.39.17:520][403]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-19.39.17:520][403]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-19.39.17:520][403]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-19.39.17:523][403]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-19.39.17:659][403]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2025.03.31-19.39.17:659][403]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-19.39.17:659][403]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-19.39.17:659][403]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-19.39.17:660][403]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.03.31-19.39.17:660][403]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.03.31-19.39.17:662][403]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.03.31-19.39.17:662][403]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.03.31-19.39.17:662][403]LogInit: FAudioDevice initialized with ID 3.
+[2025.03.31-19.39.17:662][403]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled_1'.
+[2025.03.31-19.39.17:662][403]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.31-19.39.17:676][403]LogLoad: Game class is 'GameModeBase'
+[2025.03.31-19.39.17:677][403]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2025.04.01-03.39.17
+[2025.03.31-19.39.17:678][403]LogWorld: Bringing up level for play took: 0.001633
+[2025.03.31-19.39.17:682][403]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.03.31-19.39.17:691][403]LogStreaming: Display: FlushAsyncLoading(777,776,775,774,773,772,771,770,769,768,767,766,765,764,763,762,761,760,759,758,757,756,755,754,753,752,751,750,749,748,747,746,745,744,743,742,741,740,739,738,737,736): 42 QueuedPackages, 0 AsyncPackages
+[2025.03.31-19.39.17:856][403]LogAkAudio: Warning: Failed to post invalid AkAudioEvent.
+[2025.03.31-19.39.17:856][403]PIE: Server logged in
+[2025.03.31-19.39.17:857][403]PIE: Play in editor total start time 0.41 seconds.
+[2025.03.31-19.39.22:015][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-19.39.22:015][641]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2025.03.31-19.39.22:022][641]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-19.39.22:023][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-19.39.22:023][641]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1
+[2025.03.31-19.39.22:026][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.31-19.39.22:030][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-19.39.22:053][641]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.31-19.39.22:053][641]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.31-19.39.22:053][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.31-19.39.22:055][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.31-19.39.22:060][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-19.39.22:065][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.03.31-19.39.22:121][642]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.03.31-19.39.30:128][ 88]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-19.39.30:135][ 88]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.31-19.39.30:135][ 88]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2025.03.31-19.39.30:141][ 88]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 7.066 ms (total: 30.325 ms)
+[2025.03.31-19.39.30:143][ 88]LogPlayLevel: [PlayLevel] Compiling NewBlueprint1 before play...
+[2025.03.31-19.39.30:192][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.31-19.39.30:194][ 88]LogPlayLevel: PlayLevel: Blueprint regeneration took 51 ms (1 blueprints)
+[2025.03.31-19.39.30:194][ 88]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2025.03.31-19.39.30:205][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011081s)
+[2025.03.31-19.39.30:205][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.011118s)
+[2025.03.31-19.39.30:222][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.03.31-19.39.30:222][ 88]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2025.03.31-19.39.30:224][ 88]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.31-19.39.30:224][ 88]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-19.39.30:224][ 88]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-19.39.30:224][ 88]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.31-19.39.30:231][ 88]LogWorldPartition: Display: WorldPartition initialize took 8.040 ms (total: 258.810 ms)
+[2025.03.31-19.39.30:233][ 88]LogPlayLevel: PIE: World Init took: (0.009658s)
+[2025.03.31-19.39.30:233][ 88]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.03.31-19.39.30:233][ 88]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-19.39.30:233][ 88]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-19.39.30:233][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-19.39.30:233][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-19.39.30:233][ 88]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.31-19.39.30:233][ 88]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-19.39.30:233][ 88]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.31-19.39.30:233][ 88]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-19.39.30:233][ 88]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-19.39.30:233][ 88]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-19.39.30:233][ 88]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-19.39.30:237][ 88]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-19.39.30:392][ 88]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2025.03.31-19.39.30:392][ 88]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-19.39.30:392][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-19.39.30:392][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-19.39.30:392][ 88]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.03.31-19.39.30:393][ 88]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.03.31-19.39.30:395][ 88]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.03.31-19.39.30:396][ 88]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.03.31-19.39.30:396][ 88]LogInit: FAudioDevice initialized with ID 4.
+[2025.03.31-19.39.30:396][ 88]LogAudio: Display: Audio Device (ID: 4) registered with world 'Untitled_1'.
+[2025.03.31-19.39.30:396][ 88]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.31-19.39.30:407][ 88]LogLoad: Game class is 'GameModeBase'
+[2025.03.31-19.39.30:408][ 88]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2025.04.01-03.39.30
+[2025.03.31-19.39.30:409][ 88]LogWorld: Bringing up level for play took: 0.001537
+[2025.03.31-19.39.30:411][ 88]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.03.31-19.39.30:421][ 88]LogStreaming: Display: FlushAsyncLoading(819,818,817,816,815,814,813,812,811,810,809,808,807,806,805,804,803,802,801,800,799,798,797,796,795,794,793,792,791,790,789,788,787,786,785,784,783,782,781,780,779,778): 42 QueuedPackages, 0 AsyncPackages
+[2025.03.31-19.39.30:566][ 88]PIE: Server logged in
+[2025.03.31-19.39.30:567][ 88]PIE: Play in editor total start time 0.432 seconds.
+[2025.03.31-19.39.35:224][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-19.39.35:224][359]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2025.03.31-19.39.35:233][359]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-19.39.35:233][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-19.39.35:233][359]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1
+[2025.03.31-19.39.35:237][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.31-19.39.35:241][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-19.39.35:267][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-19.39.35:267][359]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.31-19.39.35:267][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.31-19.39.35:269][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.31-19.39.35:296][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.31-19.39.35:349][360]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.03.31-19.40.57:289][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.31-19.40.57:291][256]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.021
+[2025.03.31-19.40.57:291][256]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/OpenWorldTemplate/NewBlueprint1] ([2] browsable assets)...
+[2025.03.31-19.40.57:291][256]OBJ SavePackage: Finished generating thumbnails for package [/Engine/OpenWorldTemplate/NewBlueprint1]
+[2025.03.31-19.40.57:295][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/OpenWorldTemplate/NewBlueprint1_Auto6
+[2025.03.31-19.40.57:295][256]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/NewBlueprint1_Auto6FF88576846BE5B5558BBE7A74ED792E4.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Autosaves/Engine/OpenWorldTemplate/NewBlueprint1_Auto6.uasset'
+[2025.03.31-19.40.57:301][256]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.03.31-19.40.57:624][274]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3991.648438
+[2025.03.31-19.40.57:991][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-19.40.57:991][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3991.998779, Update Interval: 323.744019
+[2025.03.31-19.41.09:655][991]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-19.41.09:661][991]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.31-19.41.09:661][991]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2025.03.31-19.41.09:667][991]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 5.422 ms (total: 35.748 ms)
+[2025.03.31-19.41.09:667][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.31-19.41.09:667][991]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2025.03.31-19.41.09:677][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010566s)
+[2025.03.31-19.41.09:678][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.010600s)
+[2025.03.31-19.41.09:695][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.31-19.41.09:696][991]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2025.03.31-19.41.09:697][991]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.31-19.41.09:697][991]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-19.41.09:697][991]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-19.41.09:697][991]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.31-19.41.09:704][991]LogWorldPartition: Display: WorldPartition initialize took 7.772 ms (total: 266.583 ms)
+[2025.03.31-19.41.09:705][991]LogPlayLevel: PIE: World Init took: (0.009249s)
+[2025.03.31-19.41.09:705][991]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.03.31-19.41.09:705][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-19.41.09:705][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-19.41.09:705][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-19.41.09:705][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-19.41.09:705][991]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.31-19.41.09:705][991]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-19.41.09:705][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.31-19.41.09:705][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-19.41.09:705][991]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-19.41.09:706][991]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-19.41.09:706][991]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-19.41.09:708][991]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-19.41.09:851][991]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2025.03.31-19.41.09:851][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-19.41.09:851][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-19.41.09:851][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-19.41.09:852][991]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.03.31-19.41.09:852][991]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.03.31-19.41.09:855][991]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.03.31-19.41.09:855][991]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.03.31-19.41.09:855][991]LogInit: FAudioDevice initialized with ID 5.
+[2025.03.31-19.41.09:855][991]LogAudio: Display: Audio Device (ID: 5) registered with world 'Untitled_1'.
+[2025.03.31-19.41.09:855][991]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.03.31-19.41.09:866][991]LogLoad: Game class is 'GameModeBase'
+[2025.03.31-19.41.09:867][991]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2025.04.01-03.41.09
+[2025.03.31-19.41.09:868][991]LogWorld: Bringing up level for play took: 0.001428
+[2025.03.31-19.41.09:871][991]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.03.31-19.41.09:880][991]LogStreaming: Display: FlushAsyncLoading(861,860,859,858,857,856,855,854,853,852,851,850,849,848,847,846,845,844,843,842,841,840,839,838,837,836,835,834,833,832,831,830,829,828,827,826,825,824,823,822,821,820): 42 QueuedPackages, 0 AsyncPackages
+[2025.03.31-19.41.10:026][991]PIE: Server logged in
+[2025.03.31-19.41.10:027][991]PIE: Play in editor total start time 0.366 seconds.
+[2025.03.31-19.42.03:187][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-19.42.03:187][161]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/OpenWorldTemplate/NewBlueprint1] ([2] browsable assets)...
+[2025.03.31-19.42.03:187][161]OBJ SavePackage: Finished generating thumbnails for package [/Engine/OpenWorldTemplate/NewBlueprint1]
+[2025.03.31-19.42.03:187][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/OpenWorldTemplate/NewBlueprint1" FILE="../../../Engine/Content/OpenWorldTemplate/NewBlueprint1.uasset" SILENT=true
+[2025.03.31-19.42.03:190][161]LogSavePackage: Moving output files for package: /Engine/OpenWorldTemplate/NewBlueprint1
+[2025.03.31-19.42.03:190][161]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/NewBlueprint18D1C7EF846C2F80F477B6DA1C9CE7C09.tmp' to '../../../Engine/Content/OpenWorldTemplate/NewBlueprint1.uasset'
+[2025.03.31-19.42.03:191][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.292 ms (total: 304.246 ms)
+[2025.03.31-19.42.03:214][161]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.31-19.42.03:215][161]LogContentValidation: Enabled validators:
+[2025.03.31-19.42.03:215][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-19.42.03:215][161]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-19.42.03:215][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-19.42.03:215][161]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-19.42.03:215][161]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-19.42.03:215][161]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-19.42.03:215][161]AssetCheck: /Engine/OpenWorldTemplate/NewBlueprint1 Validating asset
+[2025.03.31-19.42.05:293][285]LogSlate: Window 'NewBlueprint1' being destroyed
+[2025.03.31-19.42.05:305][285]LogSlate: Window 'NewBlueprint1' being destroyed
+[2025.03.31-19.42.05:307][285]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-19.42.05:308][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-19.42.05:367][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.31-19.42.08:790][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.31-19.42.08:795][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-19.42.10:682][483]LogSlate: Window 'Save Level As' being destroyed
+[2025.03.31-19.42.10:702][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.90 sec (total: 2.21 sec)
+[2025.03.31-19.42.13:569][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.31-19.42.13:574][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-19.42.14:921][642]LogSlate: Window 'Save Level As' being destroyed
+[2025.03.31-19.42.15:147][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.31-19.42.15:184][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.31-19.42.15:204][642]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.03.31-19.42.15:204][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/UntitledF91AACE942D51DCF92FC97922474E233.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/Untitled.umap'
+[2025.03.31-19.42.15:235][642]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Untitled_HLOD0_Instancing
+/Game/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF
+/Game/__ExternalObjects__/Untitled/4/HU/B285Y38RMUAD5X0BOB317C
+/Game/__ExternalObjects__/Untitled/B/8X/IY4PEMN9UZYDE7BEBHFW5H
+/Game/__ExternalObjects__/Untitled/1/A5/R3LGPWB6PMS7IVCUS30K59
+/Game/__ExternalObjects__/Untitled/8/MK/U2AR470CV8I49WKHE35892
+/Game/__ExternalObjects__/Untitled/8/WO/VW6BB6ON1O5P9P6D4TNIKG
+/Game/__ExternalObjects__/Untitled/A/3B/C169NY21IYHWNPNC5K8H2X
+/Game/__ExternalActors__/Untitled/C/JJ/2KM5RW3RB8MQTC5Z5QAP86
+/Game/__ExternalActors__/Untitled/D/U3/F9ZCV1ZQZIEFW41ASA7N1E
+/Game/__ExternalActors__/Untitled/D/FV/1KGJYU8K12XHN6XNLSYMBQ
+/Game/__ExternalActors__/Untitled/1/JL/ZK9VQR5UXVP37810TVO5YO
+/Game/__ExternalActors__/Untitled/7/L8/Y18E0V91UKJME7Q2OB3P5K
+/Game/__ExternalActors__/Untitled/D/C1/HS6V3BNZ7H6AKPXHPEX1M7
+/Game/__ExternalActors__/Untitled/0/YK/K6UPO231BY2JGT7QL36BEO
+/Game/__ExternalActors__/Untitled/E/7X/0GCTIMNEBVF8AOXPOXOJMW
+/Game/__ExternalActors__/Untitled/3/0C/B2JMGSH9XFZI7GT8M36JMF
+/Game/__ExternalActors__/Untitled/D/SW/W8795T2GDG12XXM5U16N9I
+/Game/__ExternalActors__/Untitled/5/6P/TZTEGS7BV2V5AXK97N4747
+/Game/__ExternalActors__/Untitled/D/39/H32T5U1Q8KNHDYD5J4ES73
+/Game/__ExternalActors__/Untitled/6/KE/OIGRKUBFQ7K03JW0AYCTV5
+/Game/__ExternalActors__/Untitled/1/88/91A6XDDNFM52BRAOQB9C7N
+/Game/__ExternalActors__/Untitled/A/IV/F2UCV3PMQVPC9OA6Y0XXG3
+/Game/__ExternalActors__/Untitled/3/03/C9M91X2IU3VSISEPAAR2J6
+/Game/__ExternalActors__/Untitled/B/3B/TMAFS2SESKUD4KOAG2NJ49
+/Game/__ExternalActors__/Untitled/5/YO/RTR8JDENQERG3GOYNFL652
+/Game/__ExternalActors__/Untitled/8/IV/H0MMTUZ996JY5Z931CM553
+/Game/__ExternalActors__/Untitled/0/8Y/SDDUZVFBIE0MB1SKJOTUE0
+/Game/__ExternalActors__/Untitled/A/GQ/Z1GJ8KGAV56S5I7H40160C
+/Game/__ExternalActors__/Untitled/4/DG/S0UKF9OUZ4ZHKU3LHS4676
+/Game/__ExternalActors__/Untitled/4/TV/GKOPEC6UIIHJ9LBXKLD7UM
+/Game/__ExternalActors__/Untitled/3/5C/V2OCRSLOSFHUS6S9LPDM10
+/Game/__ExternalActors__/Untitled/6/AL/EUPIOBVK6UMCF23HOCCEU3
+/Game/__ExternalActors__/Untitled/5/P9/Y5TXGWIE2U6BVSRHM3CBRL
+/Game/__ExternalActors__/Untitled/D/NM/BA3WQIS9O921IEUJ5HLEG5
+/Game/__ExternalActors__/Untitled/C/26/ZBUFF8X49WNUB8XW4T6JOF
+/Game/__ExternalActors__/Untitled/5/PT/I1CXE7YA8N7EOIF6S2LUNU
+/Game/__ExternalActors__/Untitled/C/8L/3CODS11OI75V0WX0JS91GF
+/Game/__ExternalActors__/Untitled/6/2F/4YJUFZ5EQ0DYYJ7YPLLALQ
+/Game/__ExternalActors__/Untitled/6/78/NR4DRMJJN85GU6E9FTRA0C
+/Game/__ExternalActors__/Untitled/D/1Y/LOC77QZ3MD1ZFKG90D5EP3
+/Game/__ExternalActors__/Untitled/D/BA/QUO0AEFJ38VWG80ZC1OF80
+/Game/__ExternalActors__/Untitled/1/1R/M0B50OLRXLIM0AHT0NV3LE
+/Game/__ExternalActors__/Untitled/C/UL/FCX003UHDFE1XFF1UYEKB8
+/Game/__ExternalActors__/Untitled/B/JP/PRDWJX5HHWIFD0T7RJ6OUB
+/Game/__ExternalActors__/Untitled/E/KM/6LU1RLRCO82PA3M8IZWHFG
+/Game/__ExternalActors__/Untitled/3/3W/Q0EVUK3U5XPDZDNHKTBSLP
+/Game/__ExternalActors__/Untitled/E/F1/MDBU119X329MP1N6H3D543
+/Game/__ExternalActors__/Untitled/8/78/J445VYKJUTLNEBUTN5JFSX
+/Game/__ExternalActors__/Untitled/9/BQ/9DT5QPLF7KD6YB8VPR7LE1
+/Game/__ExternalActors__/Untitled/E/MU/LNHD27GINT2578B3TZYQRM
+/Game/__ExternalActors__/Untitled/5/XC/PTON9ZHKVA2YYM6OQVKGB2
+/Game/__ExternalActors__/Untitled/7/2A/3SH27DERCHJSHZDQM19U56
+/Game/__ExternalActors__/Untitled/2/FS/YFTU31AIP02GLV9QYB3OAQ
+/Game/__ExternalActors__/Untitled/3/SV/A9DJ5UP9TCM1HX8LNL9YMB
+/Game/__ExternalActors__/Untitled/5/YI/ZJ11KYNNPW461PLOWQD26D
+/Game/__ExternalActors__/Untitled/8/KG/P4FT47HC1MCSOGH2WSE38M
+/Game/__ExternalActors__/Untitled/7/UU/T0ZQNCIJWLLSMBV45U9UNS
+/Game/__ExternalActors__/Untitled/B/19/N0FO3VW9PMSIQGODLR8OHK
+/Game/__ExternalActors__/Untitled/1/X9/T0P80E587PN0FI1P1SY900
+/Game/__ExternalActors__/Untitled/7/KO/HBTFQ946P5JEK2VINSXFF6
+/Game/__ExternalActors__/Untitled/1/ZR/BS9RFRC48BZCNCJGUFIL41
+/Game/__ExternalActors__/Untitled/8/SI/X9FK3ZHPHSO5EQPDKGIUR6
+/Game/__ExternalActors__/Untitled/3/AP/1KJ2KRD4PP3Z0SLYN7WFIE
+/Game/__ExternalActors__/Untitled/2/TD/9EBCA33K4RSQN59I5SZIQH
+/Game/__ExternalActors__/Untitled/D/AY/1YG3IP1RLO5CDOBVQ0W0RA
+/Game/__ExternalActors__/Untitled/D/PU/4DA3AUPUZMAQWTIQT205ZY
+/Game/__ExternalActors__/Untitled/1/WJ/7L5OB0P2MOJN0JVT0IO388
+/Game/__ExternalActors__/Untitled/9/Y5/82VFC1UWWA110XOOEJ158E
+/Game/__ExternalActors__/Untitled/A/YZ/YX06X250S5OVC9ACDIZ2EJ
+/Game/__ExternalActors__/Untitled/9/BE/ZFTWYVA2AW3K7IZGVNFI9L
+/Game/__ExternalActors__/Untitled/1/FB/UZK8LGMDWLF7LHM5AQVVMX
+/Game/__ExternalActors__/Untitled/A/AG/KECGBPL7YSM95LL88MMB8I
+/Game/__ExternalActors__/Untitled/3/AX/XID5TZXXMZIHV596JMGTU7
+/Game/__ExternalActors__/Untitled/1/E8/7OERKV5DBN9AKH9OGFA22L
+/Game/__ExternalActors__/Untitled/8/RC/KUGNOG85HLKEE7Q39VX85T
+/Game/__ExternalActors__/Untitled/6/WU/6N24LSH1JBQH6WL2ATPWE1
+/Game/__ExternalActors__/Untitled/9/K0/21YIO1N87PSV94GJ48ZOX7
+/Game/__ExternalActors__/Untitled/A/DW/8L46K1WD89YDHPA4PA1YQO
+/Game/__ExternalActors__/Untitled/3/LO/2L34HDZPM4CJROKPRLKZ5E
+/Game/__ExternalActors__/Untitled/9/44/XDORVWH31K9O5U948J6UPN
+/Game/__ExternalActors__/Untitled/2/9L/EOQQBNIX06TRZ5JKHNXS6H
+/Game/__ExternalActors__/Untitled/7/VH/UKHYJQL74V2MP5LKZYHH11
+/Game/__ExternalActors__/Untitled/4/UM/B5BRDG8V1RJL3TWM4HR0OJ
+/Game/__ExternalActors__/Untitled/C/VA/5H66W3HWF2PTGWEWXIG0XI
+/Game/__ExternalActors__/Untitled/B/HE/6XMYFGC6A8NS1PR1SOBI7D
+/Game/__ExternalActors__/Untitled/1/JZ/TVNAEBT2XB4FBCJVHSWPJG
+/Game/__ExternalActors__/Untitled/8/4O/6JQEC7C7J07T44BN9XRKKB
+/Game/__ExternalActors__/Untitled/A/TZ/H7X8SJH9IRNM65SZGY3GOB
+/Game/__ExternalActors__/Untitled/A/YA/AK1XLDR5V9IUUYHS9LT826
+/Game/__ExternalActors__/Untitled/C/1Y/5H7RHZCAR91A9DL66DYQZ1
+/Game/__ExternalActors__/Untitled/4/S4/QQGZ7DAJCRY5GXHVDJWZ63
+/Game/__ExternalActors__/Untitled/0/BC/U8A7EELOY8P7KI64DKFYDH
+/Game/__ExternalActors__/Untitled/C/R8/U69SAKGZ8JYPM3OB6EX0QD
+/Game/__ExternalActors__/Untitled/A/II/4DHYLSBPUFMH473Q8O9S2B
+/Game/__ExternalActors__/Untitled/1/ZP/X3NZJS0FIHM08ZXW8E8NQU
+/Game/__ExternalActors__/Untitled/D/4A/ABY732A12WGV65UUF87JLR
+/Game/__ExternalActors__/Untitled/6/T6/JZ5OSIKWQ7NAUADHTIMLAW
+/Game/__ExternalActors__/Untitled/A/KQ/2XH64GEWX5DX4PBIMSZNI2
+/Game/__ExternalActors__/Untitled/C/S6/LDLY18TSK27TZFUDPMCEW5
+/Game/__ExternalActors__/Untitled/2/4P/W7D96E3DYPPMYMJWHCHJ59
+/Game/__ExternalActors__/Untitled/5/UN/91AWBJM8S09UURPMEJNTUG
+/Game/__ExternalActors__/Untitled/7/ZL/BO205AVTF1H51WLJULZKDE
+/Game/__ExternalActors__/Untitled/0/4P/FVZCFAHYN261SLBGVKYLQ2
+/Game/__ExternalActors__/Untitled/C/MF/T2KIT9WWA5O7U7KOOMME36
+/Game/__ExternalActors__/Untitled/9/L8/XEWYHE4USPJO8RYIZ048VS
+/Game/__ExternalActors__/Untitled/E/8H/YI6CESF0ABS9YDUZ2U1YG8
+/Game/__ExternalActors__/Untitled/2/WJ/HOOYUZ3RW2QWE5BEYDM11G
+/Game/__ExternalActors__/Untitled/9/GA/EWFQW0H0JLO8BKRI7U64K2
+/Game/__ExternalActors__/Untitled/4/IA/99IPYCIBP4EO70G7NCXO6D
+/Game/__ExternalActors__/Untitled/7/SM/8F2B8YK2YY1FSYJ4CDD1LZ
+/Game/__ExternalActors__/Untitled/1/6B/A90KN4PDF9BYSQDRPALM93
+/Game/__ExternalActors__/Untitled/0/AC/HOVTEE68G7VAJSFOUK370Q
+/Game/__ExternalActors__/Untitled/4/RS/WMTOUKEV8K3FHUM25G8BWJ
+/Game/__ExternalActors__/Untitled/D/EI/4QOQXMV1Z7RA8SARUL0Y9E
+/Game/__ExternalActors__/Untitled/6/UV/743850F9OQFI148N0HVRR0
+/Game/__ExternalActors__/Untitled/0/JR/96V7FEXIDQ6YRE9WCXTO3L
+/Game/__ExternalActors__/Untitled/1/31/YMWLVZUS39SZKKP6EY3D02
+/Game/__ExternalActors__/Untitled/9/JV/7908X05DEKYVMHZDGVEVFX
+/Game/__ExternalActors__/Untitled/B/BT/16KZACDPXTP4Z8S5D4BZ0W
+/Game/__ExternalActors__/Untitled/C/X9/8ASSQYJI2TVL4NB03GHN2Y
+/Game/__ExternalActors__/Untitled/D/UC/84I1258OPSKDPG5SEL0985
+/Game/__ExternalActors__/Untitled/1/QI/A0ZTV8S9W9Y0PRY5NNQJKU
+/Game/__ExternalActors__/Untitled/3/8Y/PEVY7T6FU8CAR13QMRYRHH
+/Game/__ExternalActors__/Untitled/2/PM/UNP76Q21SVMI272RXI3AGK
+/Game/__ExternalActors__/Untitled/8/ER/5M1849BTWZ388ZXQKPK7AB
+/Game/__ExternalActors__/Untitled/0/95/8WUYYCMXX15BI3ANA0HQL2
+/Game/__ExternalActors__/Untitled/1/4F/HHY9CLN6GWOEY7MEKH8DDK
+/Game/__ExternalActors__/Untitled/8/15/9YKH8L8Z5C0IIMN27KK2VZ
+/Game/__ExternalActors__/Untitled/D/N3/83YOOR0H2EPQ81F5LWFO38
+/Game/__ExternalActors__/Untitled/4/IX/QB4R3CRHV6SQ401B0EBGID
+/Game/__ExternalActors__/Untitled/9/KQ/CUA374J9FP9AFFTXJ7T5ZP
+/Game/__ExternalActors__/Untitled/D/4X/GN0XA8QGIIL4B5QHYDFPY9
+/Game/__ExternalActors__/Untitled/2/B5/9L52R62XVE5E9BH06KPJKH
+/Game/__ExternalActors__/Untitled/3/LB/DFA9VVD121ROTY5NBEC13Y
+/Game/__ExternalActors__/Untitled/7/FE/YB3M9P5BEKTAG0L64PFTJ3
+/Game/__ExternalActors__/Untitled/5/02/IJ8HC1RVA6VSYU9C7T2FX4
+/Game/__ExternalActors__/Untitled/8/OF/9WTLWT7YQX2L3Q3TAT0130
+/Game/__ExternalActors__/Untitled/1/16/BFWQBLV6I27BBRHR1PJOLX
+/Game/__ExternalActors__/Untitled/2/MO/TAQEW1E1C82JUFXW9HST5I
+/Game/__ExternalActors__/Untitled/3/AK/MAPJMW9NWYWC79NT2QNDDW
+/Game/__ExternalActors__/Untitled/9/MA/NHJ192PDCQXCXQ2HQBMY8K
+/Game/__ExternalActors__/Untitled/8/GX/L3LD2P7KMUNO4QPHEMBTVD
+/Game/__ExternalActors__/Untitled/2/7W/JK8UCU1PU2ABZQP90FEX7I
+/Game/__ExternalActors__/Untitled/E/2Y/OJWKRQAOOT0OHBWZTOW73R
+/Game/__ExternalActors__/Untitled/D/ZD/BJC0CD8C6CU3L2R9BPMP2L
+/Game/__ExternalActors__/Untitled/D/R5/F986KWZ6978PVJHA5ZZ0FD
+/Game/__ExternalObjects__/Untitled/E/1S/4X5N6LACDKKUFD3XHZK8KU
+/Game/__ExternalObjects__/Untitled/9/AO/PKSMWGG216FG04HDSKEIJM
+/Game/__ExternalObjects__/Untitled/C/TJ/E4GRSWN3W4X718N1OZ24VY
+/Game/__ExternalObjects__/Untitled/6/DS/C37ARR79BQZYO99F3YLRWQ
+/Game/__ExternalObjects__/Untitled/4/03/JKNN59IEYLMP5A36QK6XHP
+/Game/__ExternalObjects__/Untitled/9/R0/JKV7UOU7326PUTEU2TIG7V
+/Game/__ExternalObjects__/Untitled/5/WK/L6G4T9SB2UGAS0W4CKNS7P
+/Game/__ExternalObjects__/Untitled/8/CR/1IMJ7ETX96HAHQVEGZZTRZ
+/Game/__ExternalObjects__/Untitled/5/ML/V0Q5FODKT50IV3TMFS0JVD
+/Game/__ExternalObjects__/Untitled/7/F5/ONNESD6HF5CSX1F5DJG98I
+/Game/__ExternalObjects__/Untitled/B/OJ/OE1XEAR61A01O3K4MOJBOV
+/Game/__ExternalObjects__/Untitled/9/O6/3Q02100AB2L7VE41CNNBKG
+/Game/__ExternalObjects__/Untitled/0/P5/ZQVA8WIJLW2C8L6Q1XJE9I
+/Game/__ExternalObjects__/Untitled/0/FD/DKM353GW850X0D4S3IKSXK
+/Game/__ExternalObjects__/Untitled/9/L0/6GBNN3N18QQBH2WV2A0XJ7
+/Game/__ExternalObjects__/Untitled/E/R3/QBAV9B5FGP19MUAFO6WHDO
+/Game/__ExternalObjects__/Untitled/2/3P/NLGEJAPH16YE3ACTVLN2HC
+/Game/__ExternalObjects__/Untitled/E/1A/8HXC3FY5PHGT3LHI0U967Z
+/Game/__ExternalObjects__/Untitled/1/80/SEZ3TPXR7ETS8UO3IWMUF9
+/Game/__ExternalObjects__/Untitled/6/0Y/XUQC5D5OSNJADSOODCLAR6
+/Game/__ExternalObjects__/Untitled/9/IK/M0FK0X7OAGWRZAKJT70YM4
+/Game/__ExternalObjects__/Untitled/4/7G/BV01DAQZDW7M4BY61K9CGO
+/Game/__ExternalObjects__/Untitled/8/IW/ICF9H6497N15ZIVOT5VXKZ
+/Game/__ExternalObjects__/Untitled/2/6V/XMAFQC7S9U5R2653MO2UU7
+/Game/__ExternalObjects__/Untitled/5/ND/CF116SCJZFF4JG01L08EPO
+/Game/__ExternalObjects__/Untitled/C/7N/DO08P8IEY9LK89KV6QX6T2
+/Game/__ExternalObjects__/Untitled/B/RR/CEYDCUGZ6957KLGQ18WTYH
+/Game/__ExternalObjects__/Untitled/6/2E/ILIVWMP4CB48ZD4D7IQISK
+/Game/__ExternalObjects__/Untitled/6/W3/CXWK4UI96BYIGR2YVS7V5N
+/Game/__ExternalObjects__/Untitled/0/WC/9NX9HK9HAY3E4FHPU58XCN
+/Game/__ExternalObjects__/Untitled/A/LN/PE9VZNOGZI5JPRJ5CVLVBM
+/Game/__ExternalObjects__/Untitled/E/5K/N9DTJP0W9F0LXP49SH2GKH
+/Game/__ExternalObjects__/Untitled/A/FA/5H3INA5N2R19DI8KEW2W17
+/Game/__ExternalObjects__/Untitled/6/A0/Z3NHCLRL3ZI5SILSS9I6DL
+/Game/__ExternalObjects__/Untitled/D/9V/30YPKOT1FCFUIYNDVWK3QL
+/Game/__ExternalObjects__/Untitled/8/DU/4X8W7H9HE5J31QVS5CWQ12
+/Game/__ExternalObjects__/Untitled/B/QY/VBAXEYVCK5CM9ADWVCSIL3
+/Game/__ExternalObjects__/Untitled/0/OE/39SVWOH7IBOFPF4USD12SZ
+/Game/__ExternalObjects__/Untitled/4/WO/0B9QJAB8GLKBVD6RGNPVBR
+/Game/__ExternalObjects__/Untitled/D/N9/LR036U8TYZA061JJGUD3IS
+/Game/__ExternalObjects__/Untitled/C/J2/ES5P1H47L5DZBX1BLAAHHS
+/Game/__ExternalObjects__/Untitled/D/FG/1QC4A2M7S9X0V6EF41MS6K
+/Game/__ExternalObjects__/Untitled/4/5C/74CT7YO0O2E5M3GMWO8DSO
+/Game/__ExternalObjects__/Untitled/4/QT/1FF2D465HGZK2NS5J6FYKE
+/Game/__ExternalObjects__/Untitled/7/RM/7Z8GIFYU7IROHHGBZGPE70
+/Game/__ExternalObjects__/Untitled/C/ZM/LF0AO50Q3HXPH8VU5YDFB2
+/Game/__ExternalObjects__/Untitled/1/71/LRJN3NQSX2EN2WGZ27VFJJ
+/Game/__ExternalObjects__/Untitled/3/2C/ZMKTDL0VTY92SA0I6QP73I
+/Game/__ExternalObjects__/Untitled/0/IK/MZ50I3392ETI5FR1FJYPUV
+/Game/__ExternalObjects__/Untitled/3/2C/5MM946AOLLKNTMDH2VU75R
+/Game/__ExternalObjects__/Untitled/0/5R/PYDL4Q613240PBHLXVHES9
+/Game/__ExternalObjects__/Untitled/1/KJ/NDGH8AMU09IHS6USUQE89S
+/Game/__ExternalObjects__/Untitled/6/DY/CUPEAVVXHAJS0BV3DEJ0NX
+/Game/__ExternalObjects__/Untitled/2/IQ/TJJ306GOKCLMCSPDXLHQ1U
+/Game/__ExternalObjects__/Untitled/2/SX/DHKZEE15FN3FQNSGINTJ71
+/Game/__ExternalObjects__/Untitled/E/7T/XO8LEJ5NAMH086JNJMI1PC
+/Game/__ExternalObjects__/Untitled/8/EC/M2BH9CN7DZ70FIYQZXBNT9
+/Game/__ExternalObjects__/Untitled/4/7K/MONASASQEUDO33LAS0526M
+/Game/__ExternalObjects__/Untitled/A/3H/9M4S2AX05363SD2MH5M1ET
+/Game/__ExternalObjects__/Untitled/2/PK/J6GY21LES50K635PJWEKQ3
+/Game/__ExternalObjects__/Untitled/B/TO/4CPSQJP4QVS4BJDX8D29EK
+/Game/__ExternalObjects__/Untitled/D/M0/6ALJAGU9KOQH3QB2BNH3LR
+/Game/__ExternalObjects__/Untitled/8/ZM/325M8A4ZTEBIE91I3AZ97I
+/Game/__ExternalObjects__/Untitled/3/I4/5O4EYIA6T04RWXB9MLZR03
+/Game/__ExternalObjects__/Untitled/1/WO/196HRPLNRVYJ18FNWLFZY8
+/Game/__ExternalObjects__/Untitled/3/3X/DRU779PX775KCXQFGABTUT
+/Game/__ExternalObjects__/Untitled/D/ZG/RSVI0O0G2W25ITX59L7XW5
+/Game/__ExternalObjects__/Untitled/3/0V/S3WHC05SSLMB5HTWWKG6ZX
+/Game/__ExternalObjects__/Untitled/6/7N/1Z5T8BZ4TEV8V1GP4AEBXC
+/Game/__ExternalObjects__/Untitled/7/NN/72HMGU61WSORKMDUZW9H63
+/Game/__ExternalObjects__/Untitled/8/TY/GDDPYLQTCL981O1QO6TVEO
+/Game/__ExternalObjects__/Untitled/5/U7/C5FU40JHZ3J33X9DMYYMGZ
+/Game/__ExternalObjects__/Untitled/7/7K/RUHPPPTP67Q8YRSTQRTOZ2
+/Game/__ExternalObjects__/Untitled/2/V7/NQFEDSL145D9FBZHJSPPAI
+/Game/__ExternalObjects__/Untitled/9/2X/L8BZZNJ1MX78O8J4CKZOGL
+/Game/__ExternalObjects__/Untitled/0/L0/MDX5YD05WT3LIBDC5QS1Y4
+/Game/__ExternalObjects__/Untitled/E/SS/DW8EF8CVS74NWVNQ1RYYUU
+/Game/__ExternalObjects__/Untitled/7/QU/4C3MBIZDWBGJUOYBRRGEI5
+/Game/__ExternalObjects__/Untitled/5/UZ/U90CKIHJ2UCA8L6CZPT5F4
+/Game/__ExternalObjects__/Untitled/4/LE/DFZIRXS3D12D96SX5NKJ33
+/Game/__ExternalObjects__/Untitled/6/I9/8T0LQLBK60SN8M0CXDIHG9
+/Game/__ExternalObjects__/Untitled/E/KF/VUGDI7GN9B1F1H2XKMBO5U
+/Game/__ExternalObjects__/Untitled/2/C6/WDKF7Z6SFRLUZWH1NJ964A
+/Game/__ExternalObjects__/Untitled/9/VZ/051GAVS6OBO202288ECY7K
+/Game/__ExternalObjects__/Untitled/6/EY/FUJNPJRIJJWW0MYDWF4X2L
+/Game/__ExternalObjects__/Untitled/1/2J/ZV7B6UEX46X9JAT63QFUZR
+/Game/__ExternalObjects__/Untitled/0/TV/N7GG1Z5XOJZZ1BAB93WKJD
+/Game/__ExternalObjects__/Untitled/0/5N/1HCQMN8A1WR4H8NC1Q24J1
+/Game/__ExternalObjects__/Untitled/C/QA/OV18JHL6HAK19EE8OXJC58
+/Game/__ExternalObjects__/Untitled/B/91/H7B14DGUOPGH4KETE7SKDA
+/Game/__ExternalObjects__/Untitled/D/C4/DNI4HRKOEV0Z7CUJ9ZYTQ9
+/Game/__ExternalObjects__/Untitled/C/14/1YH2Y137330Q858HUEMLBR
+/Game/__ExternalObjects__/Untitled/0/BF/BO7QJTP1996ABAWVUDF4JN
+/Game/__ExternalObjects__/Untitled/4/07/NYH6N7D2OP2F14JG9NEQRV
+/Game/__ExternalObjects__/Untitled/7/SN/A94F2QUO1B4PWDEC6DNLDC
+/Game/__ExternalObjects__/Untitled/3/ML/UCYWV84YZGZ491XHG5PUWW
+/Game/__ExternalObjects__/Untitled/5/AG/IATJQTQPKZE7B6VVPVOHYS
+/Game/__ExternalObjects__/Untitled/7/ON/1WPTUAAFL8XNVGJNHF5RV8
+/Game/__ExternalObjects__/Untitled/B/32/K3XFM9PEXCGTZA2UBUZXN8
+/Game/__ExternalObjects__/Untitled/C/S0/YVFUQ344BQS1M2EX1I1ACF
+/Game/__ExternalObjects__/Untitled/6/C7/HVD43PVINSLOC4DHTLIZPW
+/Game/__ExternalObjects__/Untitled/2/JI/POIUMNAI7K3O8YI4992Z7S
+/Game/__ExternalObjects__/Untitled/7/CV/IMV5C2NE0SAP8DCWI93GWV
+/Game/__ExternalObjects__/Untitled/6/BV/3RERBK472WWFLU4KBF69PK
+/Game/__ExternalObjects__/Untitled/D/QL/W1UTCNLPXV9TM9M6C60BXD
+/Game/__ExternalObjects__/Untitled/A/EO/4QILM336Z5PCDKCV9133LM
+/Game/__ExternalObjects__/Untitled/5/G5/VZ2PFAHXE8BFIVWKVF2UL5
+/Game/__ExternalObjects__/Untitled/B/VH/SVDKZITYI197MTU5RHXP7Q
+/Game/__ExternalObjects__/Untitled/3/GN/XH7AIXJAWD0XAPLSZX3F99
+/Game/__ExternalObjects__/Untitled/8/7X/GV6O7DACWR3BINCJ7GZZHS
+/Game/__ExternalObjects__/Untitled/1/3G/Q9CV0FYZ9E6EJUNE4N8G77
+/Game/__ExternalObjects__/Untitled/E/3I/GB3G7M1Z8FNE8CYU5X48QF
+/Game/__ExternalObjects__/Untitled/7/RO/7VMKNFOA3PVWSP2FRNX801
+/Game/__ExternalObjects__/Untitled/D/21/FHT9M3JRUD0TQWBC6JLO69
+/Game/__ExternalObjects__/Untitled/8/E9/F8BH0AS72AWRVBUIVM5YPI
+/Game/__ExternalObjects__/Untitled/4/8B/RP2ZDKZAMX7E9SPD34F1WP
+/Game/__ExternalObjects__/Untitled/1/IY/NUAAHWWN1XGE2JS1M4T2HI
+/Game/__ExternalObjects__/Untitled/D/6P/9SVNBEKXUYQJLTULIKW4ZO
+/Game/__ExternalObjects__/Untitled/5/ED/RMU93X33UCYBFMNL10K6QU
+/Game/__ExternalObjects__/Untitled/D/CU/FHE0BNBTYOATBTKVMMJKJ8
+/Game/__ExternalObjects__/Untitled/E/RF/QAB00F170Z86PO2ZVPE6TL
+/Game/__ExternalObjects__/Untitled/8/MZ/KM8KP5CB2ELI9IJWZ4K9C7
+/Game/__ExternalObjects__/Untitled/8/3R/LZDNPYH8J3H2GRVG3SFP8U
+/Game/__ExternalObjects__/Untitled/3/KO/BZKP83J6WUKT5PMWNPRCDG
+/Game/__ExternalObjects__/Untitled/1/T2/S5B3TDWAJD0HONXN6WT9Z4
+/Game/__ExternalObjects__/Untitled/B/YQ/6SP5QCI7R3G4SSG4QWKCY3
+/Game/__ExternalObjects__/Untitled/4/XG/LORDKCD0YWFBKW1MDQBC0P
+/Game/__ExternalObjects__/Untitled/B/2Z/V91MFX7UYSVTF30PBGIXKP
+/Game/__ExternalObjects__/Untitled/1/KA/WPJDGXY7M8AH6D7RJ2GD5M
+/Game/__ExternalObjects__/Untitled/8/YF/KDM88XJAYYLBK10SBMOXI0
+/Game/__ExternalObjects__/Untitled/8/4N/FN9GN8GZEY19Y4QOXKH1MQ
+/Game/__ExternalObjects__/Untitled/D/DJ/2XYAYOJZUG4GOQUJ2JI8N7
+/Game/__ExternalObjects__/Untitled/7/GA/Q1THLFF0YYF604DZ3P08Q3
+/Game/__ExternalObjects__/Untitled/9/YA/IREMIX5FVLHQ80NOPCSFI7
+/Game/__ExternalObjects__/Untitled/A/GC/CAJK0DKSJAX0DTBCANB99E
+/Game/__ExternalObjects__/Untitled/0/L7/S6I771AKZ1021HPXFCPWBX
+/Game/__ExternalObjects__/Untitled/5/0L/SLMG9R2LXNVIHT90MNEIGX
+/Game/__ExternalObjects__/Untitled/1/X2/TP1QVLVDR19F6INBUDNQO4
+[2025.03.31-19.42.15:236][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-19.42.15:272][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.03.31-19.42.15:294][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.31-19.42.15:312][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.31-19.42.15:313][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Untitled_HLOD0_Instancing] ([1] browsable assets)...
+[2025.03.31-19.42.15:313][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Untitled_HLOD0_Instancing]
+[2025.03.31-19.42.15:313][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled_HLOD0_Instancing" FILE="../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/Untitled_HLOD0_Instancing.uasset" SILENT=true
+[2025.03.31-19.42.15:314][642]LogSavePackage: Moving output files for package: /Game/Untitled_HLOD0_Instancing
+[2025.03.31-19.42.15:314][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Untitled_HLOD0_InstancingC5AAEB9F4CF50CF7660671A1E6ADDAD8.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/Untitled_HLOD0_Instancing.uasset'
+[2025.03.31-19.42.15:317][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF
+[2025.03.31-19.42.15:317][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/0LAVFHBFPQHWQIE58DO5WFE930B12845227F8E94765FBB23E2F9A9.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF.uasset'
+[2025.03.31-19.42.15:319][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Untitled/4/HU/B285Y38RMUAD5X0BOB317C] ([1] browsable assets)...
+[2025.03.31-19.42.15:319][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Untitled/4/HU/B285Y38RMUAD5X0BOB317C]
+[2025.03.31-19.42.15:319][642]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/4/HU/B285Y38RMUAD5X0BOB317C
+[2025.03.31-19.42.15:319][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/B285Y38RMUAD5X0BOB317C995B179F44C27B5152090E83237F48BF.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalObjects__/Untitled/4/HU/B285Y38RMUAD5X0BOB317C.uasset'
+[2025.03.31-19.42.15:321][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Untitled/B/8X/IY4PEMN9UZYDE7BEBHFW5H] ([1] browsable assets)...
+[2025.03.31-19.42.15:321][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Untitled/B/8X/IY4PEMN9UZYDE7BEBHFW5H]
+[2025.03.31-19.42.15:322][642]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/B/8X/IY4PEMN9UZYDE7BEBHFW5H
+[2025.03.31-19.42.15:322][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/IY4PEMN9UZYDE7BEBHFW5H3137679648858BB24F03D5B3394CBA84.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalObjects__/Untitled/B/8X/IY4PEMN9UZYDE7BEBHFW5H.uasset'
+[2025.03.31-19.42.15:324][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Untitled/1/A5/R3LGPWB6PMS7IVCUS30K59] ([1] browsable assets)...
+[2025.03.31-19.42.15:324][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Untitled/1/A5/R3LGPWB6PMS7IVCUS30K59]
+[2025.03.31-19.42.15:325][642]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/1/A5/R3LGPWB6PMS7IVCUS30K59
+[2025.03.31-19.42.15:325][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/R3LGPWB6PMS7IVCUS30K59C2F5FF3B4E8CB3CD68F680AD242C49FD.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalObjects__/Untitled/1/A5/R3LGPWB6PMS7IVCUS30K59.uasset'
+[2025.03.31-19.42.15:326][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Untitled/8/MK/U2AR470CV8I49WKHE35892] ([1] browsable assets)...
+[2025.03.31-19.42.15:326][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Untitled/8/MK/U2AR470CV8I49WKHE35892]
+[2025.03.31-19.42.15:326][642]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/8/MK/U2AR470CV8I49WKHE35892
+[2025.03.31-19.42.15:326][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/U2AR470CV8I49WKHE3589231FCB71C4CD76121C655CEBD9E132D4E.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalObjects__/Untitled/8/MK/U2AR470CV8I49WKHE35892.uasset'
+[2025.03.31-19.42.15:327][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Untitled/8/WO/VW6BB6ON1O5P9P6D4TNIKG] ([1] browsable assets)...
+[2025.03.31-19.42.15:327][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Untitled/8/WO/VW6BB6ON1O5P9P6D4TNIKG]
+[2025.03.31-19.42.15:328][642]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/8/WO/VW6BB6ON1O5P9P6D4TNIKG
+[2025.03.31-19.42.15:328][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/VW6BB6ON1O5P9P6D4TNIKG6FCD55214636B8B747F5C48C2ADF5CCD.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalObjects__/Untitled/8/WO/VW6BB6ON1O5P9P6D4TNIKG.uasset'
+[2025.03.31-19.42.15:329][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Untitled/A/3B/C169NY21IYHWNPNC5K8H2X] ([1] browsable assets)...
+[2025.03.31-19.42.15:329][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Untitled/A/3B/C169NY21IYHWNPNC5K8H2X]
+[2025.03.31-19.42.15:329][642]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/A/3B/C169NY21IYHWNPNC5K8H2X
+[2025.03.31-19.42.15:329][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/C169NY21IYHWNPNC5K8H2XA179902E4B3E6667ECA6D09CE7153A17.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalObjects__/Untitled/A/3B/C169NY21IYHWNPNC5K8H2X.uasset'
+[2025.03.31-19.42.15:392][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/JJ/2KM5RW3RB8MQTC5Z5QAP86
+[2025.03.31-19.42.15:392][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/2KM5RW3RB8MQTC5Z5QAP8644D84CD74807B8940DE2DF947F66FC87.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/C/JJ/2KM5RW3RB8MQTC5Z5QAP86.uasset'
+[2025.03.31-19.42.15:396][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/U3/F9ZCV1ZQZIEFW41ASA7N1E
+[2025.03.31-19.42.15:396][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/F9ZCV1ZQZIEFW41ASA7N1E521315404D722ABABD6742B9D2BA8DBC.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/U3/F9ZCV1ZQZIEFW41ASA7N1E.uasset'
+[2025.03.31-19.42.15:398][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/FV/1KGJYU8K12XHN6XNLSYMBQ
+[2025.03.31-19.42.15:398][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/1KGJYU8K12XHN6XNLSYMBQ53935F94416023CFC8DA47AD96FCF852.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/FV/1KGJYU8K12XHN6XNLSYMBQ.uasset'
+[2025.03.31-19.42.15:400][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/JL/ZK9VQR5UXVP37810TVO5YO
+[2025.03.31-19.42.15:400][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/ZK9VQR5UXVP37810TVO5YOA9C93EA54BA1FCED700068B5EEE8D715.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/1/JL/ZK9VQR5UXVP37810TVO5YO.uasset'
+[2025.03.31-19.42.15:401][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/L8/Y18E0V91UKJME7Q2OB3P5K
+[2025.03.31-19.42.15:401][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Y18E0V91UKJME7Q2OB3P5K9D600CBA45996B6D4ACA8488D9D1C221.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/7/L8/Y18E0V91UKJME7Q2OB3P5K.uasset'
+[2025.03.31-19.42.15:404][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/C1/HS6V3BNZ7H6AKPXHPEX1M7
+[2025.03.31-19.42.15:405][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/HS6V3BNZ7H6AKPXHPEX1M7EE003D0E4F2E1E60D02746ADFC9822A5.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/C1/HS6V3BNZ7H6AKPXHPEX1M7.uasset'
+[2025.03.31-19.42.15:408][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/YK/K6UPO231BY2JGT7QL36BEO
+[2025.03.31-19.42.15:408][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/K6UPO231BY2JGT7QL36BEO47B7407E4CAF974EC4E6F29C19D629FE.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/0/YK/K6UPO231BY2JGT7QL36BEO.uasset'
+[2025.03.31-19.42.15:410][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/7X/0GCTIMNEBVF8AOXPOXOJMW
+[2025.03.31-19.42.15:410][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/0GCTIMNEBVF8AOXPOXOJMW16F8BA99428A69FDA11E9A8DAAF931AA.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/E/7X/0GCTIMNEBVF8AOXPOXOJMW.uasset'
+[2025.03.31-19.42.15:412][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/0C/B2JMGSH9XFZI7GT8M36JMF
+[2025.03.31-19.42.15:413][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/B2JMGSH9XFZI7GT8M36JMFA460F65546A6CBA433559AA4B00C0DD6.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/3/0C/B2JMGSH9XFZI7GT8M36JMF.uasset'
+[2025.03.31-19.42.15:427][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/SW/W8795T2GDG12XXM5U16N9I
+[2025.03.31-19.42.15:427][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/W8795T2GDG12XXM5U16N9IA4D54AAE4856344D48FB80801EC5F437.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/SW/W8795T2GDG12XXM5U16N9I.uasset'
+[2025.03.31-19.42.15:437][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/6P/TZTEGS7BV2V5AXK97N4747
+[2025.03.31-19.42.15:437][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/TZTEGS7BV2V5AXK97N4747D26B3FDE44602E8B321B91B48032AA90.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/5/6P/TZTEGS7BV2V5AXK97N4747.uasset'
+[2025.03.31-19.42.15:448][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/39/H32T5U1Q8KNHDYD5J4ES73
+[2025.03.31-19.42.15:448][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/H32T5U1Q8KNHDYD5J4ES73788793F4472A1E63E543A68BAA070377.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/39/H32T5U1Q8KNHDYD5J4ES73.uasset'
+[2025.03.31-19.42.15:460][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/KE/OIGRKUBFQ7K03JW0AYCTV5
+[2025.03.31-19.42.15:460][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/OIGRKUBFQ7K03JW0AYCTV51BB77C4E47E20E014930079FDA498D2E.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/6/KE/OIGRKUBFQ7K03JW0AYCTV5.uasset'
+[2025.03.31-19.42.15:471][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/88/91A6XDDNFM52BRAOQB9C7N
+[2025.03.31-19.42.15:471][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/91A6XDDNFM52BRAOQB9C7N5094AE5045A2D855D56EC0A59A62C2CF.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/1/88/91A6XDDNFM52BRAOQB9C7N.uasset'
+[2025.03.31-19.42.15:483][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/IV/F2UCV3PMQVPC9OA6Y0XXG3
+[2025.03.31-19.42.15:483][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/F2UCV3PMQVPC9OA6Y0XXG3D5C4852841344C0B198D679DEFBC5AE9.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/A/IV/F2UCV3PMQVPC9OA6Y0XXG3.uasset'
+[2025.03.31-19.42.15:494][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/03/C9M91X2IU3VSISEPAAR2J6
+[2025.03.31-19.42.15:494][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/C9M91X2IU3VSISEPAAR2J620465D3F4039ECF0298EE1A4E04ED965.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/3/03/C9M91X2IU3VSISEPAAR2J6.uasset'
+[2025.03.31-19.42.15:507][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/B/3B/TMAFS2SESKUD4KOAG2NJ49
+[2025.03.31-19.42.15:508][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/TMAFS2SESKUD4KOAG2NJ4969DFEEC04DC501E37C91438E5E51CF68.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/B/3B/TMAFS2SESKUD4KOAG2NJ49.uasset'
+[2025.03.31-19.42.15:521][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/YO/RTR8JDENQERG3GOYNFL652
+[2025.03.31-19.42.15:522][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/RTR8JDENQERG3GOYNFL652FEE04A27419389B971A75091EE083DD4.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/5/YO/RTR8JDENQERG3GOYNFL652.uasset'
+[2025.03.31-19.42.15:535][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/IV/H0MMTUZ996JY5Z931CM553
+[2025.03.31-19.42.15:535][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/H0MMTUZ996JY5Z931CM553733B51E044C247A2C6C5968116278EA2.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/8/IV/H0MMTUZ996JY5Z931CM553.uasset'
+[2025.03.31-19.42.15:549][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/8Y/SDDUZVFBIE0MB1SKJOTUE0
+[2025.03.31-19.42.15:549][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/SDDUZVFBIE0MB1SKJOTUE09B6F273643695C606131B9ABEE413A34.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/0/8Y/SDDUZVFBIE0MB1SKJOTUE0.uasset'
+[2025.03.31-19.42.15:563][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/GQ/Z1GJ8KGAV56S5I7H40160C
+[2025.03.31-19.42.15:563][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Z1GJ8KGAV56S5I7H40160C7FB5CD4141F8402D39F9E08FF228CAC7.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/A/GQ/Z1GJ8KGAV56S5I7H40160C.uasset'
+[2025.03.31-19.42.15:575][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/DG/S0UKF9OUZ4ZHKU3LHS4676
+[2025.03.31-19.42.15:575][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/S0UKF9OUZ4ZHKU3LHS46766DDC0312447D6EC659BFF7BAD46BDE99.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/4/DG/S0UKF9OUZ4ZHKU3LHS4676.uasset'
+[2025.03.31-19.42.15:588][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/TV/GKOPEC6UIIHJ9LBXKLD7UM
+[2025.03.31-19.42.15:588][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/GKOPEC6UIIHJ9LBXKLD7UMB88117FD455B0F6EEC814DAE9D714623.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/4/TV/GKOPEC6UIIHJ9LBXKLD7UM.uasset'
+[2025.03.31-19.42.15:600][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/5C/V2OCRSLOSFHUS6S9LPDM10
+[2025.03.31-19.42.15:600][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/V2OCRSLOSFHUS6S9LPDM10081E00AD46FE3EDB987618B6874578F1.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/3/5C/V2OCRSLOSFHUS6S9LPDM10.uasset'
+[2025.03.31-19.42.15:613][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/AL/EUPIOBVK6UMCF23HOCCEU3
+[2025.03.31-19.42.15:614][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/EUPIOBVK6UMCF23HOCCEU37170ED6845ED597CB1350AB646809552.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/6/AL/EUPIOBVK6UMCF23HOCCEU3.uasset'
+[2025.03.31-19.42.15:627][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/P9/Y5TXGWIE2U6BVSRHM3CBRL
+[2025.03.31-19.42.15:627][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Y5TXGWIE2U6BVSRHM3CBRLD7910D04469246702593E094659BA9B8.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/5/P9/Y5TXGWIE2U6BVSRHM3CBRL.uasset'
+[2025.03.31-19.42.15:639][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/NM/BA3WQIS9O921IEUJ5HLEG5
+[2025.03.31-19.42.15:639][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/BA3WQIS9O921IEUJ5HLEG5836576EC49A58DAF36A20DBF2628BF38.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/NM/BA3WQIS9O921IEUJ5HLEG5.uasset'
+[2025.03.31-19.42.15:652][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/26/ZBUFF8X49WNUB8XW4T6JOF
+[2025.03.31-19.42.15:652][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/ZBUFF8X49WNUB8XW4T6JOF91B279D848BCEA18544A16BF2A14FFAA.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/C/26/ZBUFF8X49WNUB8XW4T6JOF.uasset'
+[2025.03.31-19.42.15:664][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/PT/I1CXE7YA8N7EOIF6S2LUNU
+[2025.03.31-19.42.15:664][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/I1CXE7YA8N7EOIF6S2LUNUF6BAADF14D9882D440C7DDB455737014.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/5/PT/I1CXE7YA8N7EOIF6S2LUNU.uasset'
+[2025.03.31-19.42.15:675][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/8L/3CODS11OI75V0WX0JS91GF
+[2025.03.31-19.42.15:675][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/3CODS11OI75V0WX0JS91GF732AE06F4449BAF463978986CF49688C.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/C/8L/3CODS11OI75V0WX0JS91GF.uasset'
+[2025.03.31-19.42.15:689][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/2F/4YJUFZ5EQ0DYYJ7YPLLALQ
+[2025.03.31-19.42.15:689][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/4YJUFZ5EQ0DYYJ7YPLLALQ7D1D60F94E92DC3634242EA996D11C30.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/6/2F/4YJUFZ5EQ0DYYJ7YPLLALQ.uasset'
+[2025.03.31-19.42.15:701][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/78/NR4DRMJJN85GU6E9FTRA0C
+[2025.03.31-19.42.15:701][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/NR4DRMJJN85GU6E9FTRA0C15D6092C4A8FBAFEC135228927031AC8.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/6/78/NR4DRMJJN85GU6E9FTRA0C.uasset'
+[2025.03.31-19.42.15:713][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/1Y/LOC77QZ3MD1ZFKG90D5EP3
+[2025.03.31-19.42.15:713][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/LOC77QZ3MD1ZFKG90D5EP32DA6C2AF4DAA1A732D2809AC43C19D67.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/1Y/LOC77QZ3MD1ZFKG90D5EP3.uasset'
+[2025.03.31-19.42.15:725][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/BA/QUO0AEFJ38VWG80ZC1OF80
+[2025.03.31-19.42.15:725][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/QUO0AEFJ38VWG80ZC1OF8096B1198C43F3B26007D3AEB252FBF313.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/BA/QUO0AEFJ38VWG80ZC1OF80.uasset'
+[2025.03.31-19.42.15:738][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/1R/M0B50OLRXLIM0AHT0NV3LE
+[2025.03.31-19.42.15:738][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/M0B50OLRXLIM0AHT0NV3LEBBA9993C47B0F486C265C189625D3E59.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/1/1R/M0B50OLRXLIM0AHT0NV3LE.uasset'
+[2025.03.31-19.42.15:752][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/UL/FCX003UHDFE1XFF1UYEKB8
+[2025.03.31-19.42.15:753][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/FCX003UHDFE1XFF1UYEKB876F2AD80483FF2963495E3AE2B82F83D.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/C/UL/FCX003UHDFE1XFF1UYEKB8.uasset'
+[2025.03.31-19.42.15:765][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/B/JP/PRDWJX5HHWIFD0T7RJ6OUB
+[2025.03.31-19.42.15:765][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/PRDWJX5HHWIFD0T7RJ6OUBD0358EAB4ABCC076E7D051B387336071.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/B/JP/PRDWJX5HHWIFD0T7RJ6OUB.uasset'
+[2025.03.31-19.42.15:775][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/KM/6LU1RLRCO82PA3M8IZWHFG
+[2025.03.31-19.42.15:775][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/6LU1RLRCO82PA3M8IZWHFG41648E514DDF6FAE08C21DB3E2A3DEF1.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/E/KM/6LU1RLRCO82PA3M8IZWHFG.uasset'
+[2025.03.31-19.42.15:787][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/3W/Q0EVUK3U5XPDZDNHKTBSLP
+[2025.03.31-19.42.15:788][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/Q0EVUK3U5XPDZDNHKTBSLPE33CDE1F486ED1E2C8C6CAA07A0C3AF9.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/3/3W/Q0EVUK3U5XPDZDNHKTBSLP.uasset'
+[2025.03.31-19.42.15:800][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/F1/MDBU119X329MP1N6H3D543
+[2025.03.31-19.42.15:800][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/MDBU119X329MP1N6H3D543017698714532A6C69C02248D72BD713D.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/E/F1/MDBU119X329MP1N6H3D543.uasset'
+[2025.03.31-19.42.15:814][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/78/J445VYKJUTLNEBUTN5JFSX
+[2025.03.31-19.42.15:814][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/J445VYKJUTLNEBUTN5JFSXE4B6C91D4D64D16C36AA85A7E6AF0A4F.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/8/78/J445VYKJUTLNEBUTN5JFSX.uasset'
+[2025.03.31-19.42.15:827][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/BQ/9DT5QPLF7KD6YB8VPR7LE1
+[2025.03.31-19.42.15:828][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/9DT5QPLF7KD6YB8VPR7LE1FA5A4A8C4A3826471D423E8ABD721FD6.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/9/BQ/9DT5QPLF7KD6YB8VPR7LE1.uasset'
+[2025.03.31-19.42.15:841][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/MU/LNHD27GINT2578B3TZYQRM
+[2025.03.31-19.42.15:841][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/LNHD27GINT2578B3TZYQRM719166DA449DC5A3E353B8BD969463A7.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/E/MU/LNHD27GINT2578B3TZYQRM.uasset'
+[2025.03.31-19.42.15:854][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/XC/PTON9ZHKVA2YYM6OQVKGB2
+[2025.03.31-19.42.15:855][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/PTON9ZHKVA2YYM6OQVKGB24704741F43E56F3CB40C2891CFE564A7.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/5/XC/PTON9ZHKVA2YYM6OQVKGB2.uasset'
+[2025.03.31-19.42.15:868][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/2A/3SH27DERCHJSHZDQM19U56
+[2025.03.31-19.42.15:868][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/3SH27DERCHJSHZDQM19U5641F286DB47C6A76E59440B8F85943388.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/7/2A/3SH27DERCHJSHZDQM19U56.uasset'
+[2025.03.31-19.42.15:881][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/FS/YFTU31AIP02GLV9QYB3OAQ
+[2025.03.31-19.42.15:881][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/YFTU31AIP02GLV9QYB3OAQAA70CE4A4AF819222DCC82AE762649A4.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/2/FS/YFTU31AIP02GLV9QYB3OAQ.uasset'
+[2025.03.31-19.42.15:894][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/SV/A9DJ5UP9TCM1HX8LNL9YMB
+[2025.03.31-19.42.15:894][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/A9DJ5UP9TCM1HX8LNL9YMB5E70B4D54E9EC87E96699BA9A6C25360.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/3/SV/A9DJ5UP9TCM1HX8LNL9YMB.uasset'
+[2025.03.31-19.42.15:907][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/YI/ZJ11KYNNPW461PLOWQD26D
+[2025.03.31-19.42.15:907][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/ZJ11KYNNPW461PLOWQD26D176E6FC44371521DB97F309B4892F162.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/5/YI/ZJ11KYNNPW461PLOWQD26D.uasset'
+[2025.03.31-19.42.15:920][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/KG/P4FT47HC1MCSOGH2WSE38M
+[2025.03.31-19.42.15:920][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/P4FT47HC1MCSOGH2WSE38M24B7E6034E38961DC338C6B3D95CC24E.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/8/KG/P4FT47HC1MCSOGH2WSE38M.uasset'
+[2025.03.31-19.42.15:931][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/UU/T0ZQNCIJWLLSMBV45U9UNS
+[2025.03.31-19.42.15:931][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/T0ZQNCIJWLLSMBV45U9UNSE72EE6154B91FFB5DCFFA7B816F564D0.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/7/UU/T0ZQNCIJWLLSMBV45U9UNS.uasset'
+[2025.03.31-19.42.15:944][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/B/19/N0FO3VW9PMSIQGODLR8OHK
+[2025.03.31-19.42.15:944][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/N0FO3VW9PMSIQGODLR8OHK9177A1BD4372C209E2271F8924036E0C.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/B/19/N0FO3VW9PMSIQGODLR8OHK.uasset'
+[2025.03.31-19.42.15:957][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/X9/T0P80E587PN0FI1P1SY900
+[2025.03.31-19.42.15:957][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/T0P80E587PN0FI1P1SY900E94B67AE4B69621511EC53BB1DD0C9CC.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/1/X9/T0P80E587PN0FI1P1SY900.uasset'
+[2025.03.31-19.42.15:970][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/KO/HBTFQ946P5JEK2VINSXFF6
+[2025.03.31-19.42.15:970][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/HBTFQ946P5JEK2VINSXFF662862E68415C81BCE324FC90A5CA1758.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/7/KO/HBTFQ946P5JEK2VINSXFF6.uasset'
+[2025.03.31-19.42.15:981][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/ZR/BS9RFRC48BZCNCJGUFIL41
+[2025.03.31-19.42.15:981][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/BS9RFRC48BZCNCJGUFIL4102FB85264604B86E88B6EEA7B358F21F.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/1/ZR/BS9RFRC48BZCNCJGUFIL41.uasset'
+[2025.03.31-19.42.15:994][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/SI/X9FK3ZHPHSO5EQPDKGIUR6
+[2025.03.31-19.42.15:994][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/X9FK3ZHPHSO5EQPDKGIUR6F27C278A453C90578C6E72A96E7C6A1D.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/8/SI/X9FK3ZHPHSO5EQPDKGIUR6.uasset'
+[2025.03.31-19.42.16:006][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/AP/1KJ2KRD4PP3Z0SLYN7WFIE
+[2025.03.31-19.42.16:006][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/1KJ2KRD4PP3Z0SLYN7WFIEEFDAC8ED4B4212380CF72EA61A326D39.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/3/AP/1KJ2KRD4PP3Z0SLYN7WFIE.uasset'
+[2025.03.31-19.42.16:019][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/TD/9EBCA33K4RSQN59I5SZIQH
+[2025.03.31-19.42.16:019][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/9EBCA33K4RSQN59I5SZIQH8C3F8CAE461D43E28C74FEA15434C915.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/2/TD/9EBCA33K4RSQN59I5SZIQH.uasset'
+[2025.03.31-19.42.16:032][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/AY/1YG3IP1RLO5CDOBVQ0W0RA
+[2025.03.31-19.42.16:032][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/1YG3IP1RLO5CDOBVQ0W0RA4D4249F448CA784C2350AB8CFAC3BE95.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/AY/1YG3IP1RLO5CDOBVQ0W0RA.uasset'
+[2025.03.31-19.42.16:044][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/PU/4DA3AUPUZMAQWTIQT205ZY
+[2025.03.31-19.42.16:044][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/4DA3AUPUZMAQWTIQT205ZY9E13783A426E1D61EADFE787E8B8AB77.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/PU/4DA3AUPUZMAQWTIQT205ZY.uasset'
+[2025.03.31-19.42.16:058][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/WJ/7L5OB0P2MOJN0JVT0IO388
+[2025.03.31-19.42.16:058][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/7L5OB0P2MOJN0JVT0IO388A7312AE84F03071D09F4FC8B4C8A8CFC.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/1/WJ/7L5OB0P2MOJN0JVT0IO388.uasset'
+[2025.03.31-19.42.16:069][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/Y5/82VFC1UWWA110XOOEJ158E
+[2025.03.31-19.42.16:069][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/82VFC1UWWA110XOOEJ158E27C0B90043E8B2214FF411BF721F32B2.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/9/Y5/82VFC1UWWA110XOOEJ158E.uasset'
+[2025.03.31-19.42.16:082][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/YZ/YX06X250S5OVC9ACDIZ2EJ
+[2025.03.31-19.42.16:082][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/YX06X250S5OVC9ACDIZ2EJ64E522974EAD5951CBDB60BEA10C434F.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/A/YZ/YX06X250S5OVC9ACDIZ2EJ.uasset'
+[2025.03.31-19.42.16:095][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/BE/ZFTWYVA2AW3K7IZGVNFI9L
+[2025.03.31-19.42.16:095][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/ZFTWYVA2AW3K7IZGVNFI9L1E559C894C2C7BCC7E79B3B46C8ED13A.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/9/BE/ZFTWYVA2AW3K7IZGVNFI9L.uasset'
+[2025.03.31-19.42.16:107][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/FB/UZK8LGMDWLF7LHM5AQVVMX
+[2025.03.31-19.42.16:107][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/UZK8LGMDWLF7LHM5AQVVMX2879EC8F4A00690A0D719B843B8B1911.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/1/FB/UZK8LGMDWLF7LHM5AQVVMX.uasset'
+[2025.03.31-19.42.16:120][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/AG/KECGBPL7YSM95LL88MMB8I
+[2025.03.31-19.42.16:120][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/KECGBPL7YSM95LL88MMB8I1AD4A67247197D1107B1FC8A416D00AF.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/A/AG/KECGBPL7YSM95LL88MMB8I.uasset'
+[2025.03.31-19.42.16:134][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/AX/XID5TZXXMZIHV596JMGTU7
+[2025.03.31-19.42.16:134][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/XID5TZXXMZIHV596JMGTU7289C9C3541ACE300EDC35BB0AA8557A9.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/3/AX/XID5TZXXMZIHV596JMGTU7.uasset'
+[2025.03.31-19.42.16:146][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/E8/7OERKV5DBN9AKH9OGFA22L
+[2025.03.31-19.42.16:146][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/7OERKV5DBN9AKH9OGFA22L1A57257845BE0C5C750B1EA628312480.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/1/E8/7OERKV5DBN9AKH9OGFA22L.uasset'
+[2025.03.31-19.42.16:159][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/RC/KUGNOG85HLKEE7Q39VX85T
+[2025.03.31-19.42.16:159][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/KUGNOG85HLKEE7Q39VX85TF9D139AC4D72AEE6FD23089368CEF249.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/8/RC/KUGNOG85HLKEE7Q39VX85T.uasset'
+[2025.03.31-19.42.16:171][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/WU/6N24LSH1JBQH6WL2ATPWE1
+[2025.03.31-19.42.16:171][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/6N24LSH1JBQH6WL2ATPWE1D95A80FB420DE229609643A8AFCBB0B1.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/6/WU/6N24LSH1JBQH6WL2ATPWE1.uasset'
+[2025.03.31-19.42.16:185][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/K0/21YIO1N87PSV94GJ48ZOX7
+[2025.03.31-19.42.16:185][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/21YIO1N87PSV94GJ48ZOX7759B1D48420079D7C4EEA8BE6C10A41C.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/9/K0/21YIO1N87PSV94GJ48ZOX7.uasset'
+[2025.03.31-19.42.16:199][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/DW/8L46K1WD89YDHPA4PA1YQO
+[2025.03.31-19.42.16:199][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/8L46K1WD89YDHPA4PA1YQO1CE6915F46E64F78E35227A2C4E63533.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/A/DW/8L46K1WD89YDHPA4PA1YQO.uasset'
+[2025.03.31-19.42.16:213][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/LO/2L34HDZPM4CJROKPRLKZ5E
+[2025.03.31-19.42.16:213][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/2L34HDZPM4CJROKPRLKZ5ECA8A1F684C83D05D6E4B1DBDFAFEE0C7.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/3/LO/2L34HDZPM4CJROKPRLKZ5E.uasset'
+[2025.03.31-19.42.16:227][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/44/XDORVWH31K9O5U948J6UPN
+[2025.03.31-19.42.16:227][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/XDORVWH31K9O5U948J6UPNB30AC1D943EE593FC5C275BA7525F439.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/9/44/XDORVWH31K9O5U948J6UPN.uasset'
+[2025.03.31-19.42.16:234][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/9L/EOQQBNIX06TRZ5JKHNXS6H
+[2025.03.31-19.42.16:235][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/EOQQBNIX06TRZ5JKHNXS6H5BF4E3D944AF554D0642A980A8A39A92.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/2/9L/EOQQBNIX06TRZ5JKHNXS6H.uasset'
+[2025.03.31-19.42.16:239][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/VH/UKHYJQL74V2MP5LKZYHH11
+[2025.03.31-19.42.16:239][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/UKHYJQL74V2MP5LKZYHH1192A692CD45095CD8C4EA1CBE907B4BEF.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/7/VH/UKHYJQL74V2MP5LKZYHH11.uasset'
+[2025.03.31-19.42.16:244][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/UM/B5BRDG8V1RJL3TWM4HR0OJ
+[2025.03.31-19.42.16:244][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/B5BRDG8V1RJL3TWM4HR0OJ0EB24AA3464980B99C2DA39675386D8B.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/4/UM/B5BRDG8V1RJL3TWM4HR0OJ.uasset'
+[2025.03.31-19.42.16:248][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/VA/5H66W3HWF2PTGWEWXIG0XI
+[2025.03.31-19.42.16:248][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/5H66W3HWF2PTGWEWXIG0XI20B56A4D40F767913B9BE8A3AB28B98E.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/C/VA/5H66W3HWF2PTGWEWXIG0XI.uasset'
+[2025.03.31-19.42.16:253][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/B/HE/6XMYFGC6A8NS1PR1SOBI7D
+[2025.03.31-19.42.16:253][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/6XMYFGC6A8NS1PR1SOBI7D80EAD3FF4455DB779AD35082391778E4.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/B/HE/6XMYFGC6A8NS1PR1SOBI7D.uasset'
+[2025.03.31-19.42.16:257][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/JZ/TVNAEBT2XB4FBCJVHSWPJG
+[2025.03.31-19.42.16:258][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/TVNAEBT2XB4FBCJVHSWPJG5C825EB34B653C359013F2A2BFDCE5D8.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/1/JZ/TVNAEBT2XB4FBCJVHSWPJG.uasset'
+[2025.03.31-19.42.16:262][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/4O/6JQEC7C7J07T44BN9XRKKB
+[2025.03.31-19.42.16:262][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/6JQEC7C7J07T44BN9XRKKBDA0C55354B9586F24B7B7BBFD40A8DD2.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/8/4O/6JQEC7C7J07T44BN9XRKKB.uasset'
+[2025.03.31-19.42.16:267][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/TZ/H7X8SJH9IRNM65SZGY3GOB
+[2025.03.31-19.42.16:267][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/H7X8SJH9IRNM65SZGY3GOB4EAB33AE4C66B9DCF6D4FCBCF2BF24F6.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/A/TZ/H7X8SJH9IRNM65SZGY3GOB.uasset'
+[2025.03.31-19.42.16:272][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/YA/AK1XLDR5V9IUUYHS9LT826
+[2025.03.31-19.42.16:272][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/AK1XLDR5V9IUUYHS9LT8268366A9154EFF05791F4754AF1C21B7DC.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/A/YA/AK1XLDR5V9IUUYHS9LT826.uasset'
+[2025.03.31-19.42.16:277][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/1Y/5H7RHZCAR91A9DL66DYQZ1
+[2025.03.31-19.42.16:277][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/5H7RHZCAR91A9DL66DYQZ1BB22975B47841CC161AAE6B4248B71E5.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/C/1Y/5H7RHZCAR91A9DL66DYQZ1.uasset'
+[2025.03.31-19.42.16:281][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/S4/QQGZ7DAJCRY5GXHVDJWZ63
+[2025.03.31-19.42.16:281][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/QQGZ7DAJCRY5GXHVDJWZ631BE5FCDB40C999BE956D1EBBB21C35A0.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/4/S4/QQGZ7DAJCRY5GXHVDJWZ63.uasset'
+[2025.03.31-19.42.16:287][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/BC/U8A7EELOY8P7KI64DKFYDH
+[2025.03.31-19.42.16:287][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/U8A7EELOY8P7KI64DKFYDH81D674314ABC57A25885649E2E8C8ADA.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/0/BC/U8A7EELOY8P7KI64DKFYDH.uasset'
+[2025.03.31-19.42.16:291][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/R8/U69SAKGZ8JYPM3OB6EX0QD
+[2025.03.31-19.42.16:291][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/U69SAKGZ8JYPM3OB6EX0QDFCC3F3954825D4594414FE98667E4651.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/C/R8/U69SAKGZ8JYPM3OB6EX0QD.uasset'
+[2025.03.31-19.42.16:296][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/II/4DHYLSBPUFMH473Q8O9S2B
+[2025.03.31-19.42.16:296][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/4DHYLSBPUFMH473Q8O9S2B126579C049929C90DD9A03A207A16C25.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/A/II/4DHYLSBPUFMH473Q8O9S2B.uasset'
+[2025.03.31-19.42.16:301][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/ZP/X3NZJS0FIHM08ZXW8E8NQU
+[2025.03.31-19.42.16:301][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/X3NZJS0FIHM08ZXW8E8NQUCE820F0449A170880E50D9AE9004D680.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/1/ZP/X3NZJS0FIHM08ZXW8E8NQU.uasset'
+[2025.03.31-19.42.16:306][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/4A/ABY732A12WGV65UUF87JLR
+[2025.03.31-19.42.16:306][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/ABY732A12WGV65UUF87JLR9E1EE7184AB4C8D48D08DC9A6F571A20.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/4A/ABY732A12WGV65UUF87JLR.uasset'
+[2025.03.31-19.42.16:311][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/T6/JZ5OSIKWQ7NAUADHTIMLAW
+[2025.03.31-19.42.16:311][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/JZ5OSIKWQ7NAUADHTIMLAWE2B3C9E5440FE3077CE207B1C8F39498.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/6/T6/JZ5OSIKWQ7NAUADHTIMLAW.uasset'
+[2025.03.31-19.42.16:315][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/KQ/2XH64GEWX5DX4PBIMSZNI2
+[2025.03.31-19.42.16:315][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/2XH64GEWX5DX4PBIMSZNI23B61E07949E03AF67180FB97CDCECDE0.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/A/KQ/2XH64GEWX5DX4PBIMSZNI2.uasset'
+[2025.03.31-19.42.16:320][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/S6/LDLY18TSK27TZFUDPMCEW5
+[2025.03.31-19.42.16:320][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/LDLY18TSK27TZFUDPMCEW554D4B7C44FF259D2B5353780888C6525.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/C/S6/LDLY18TSK27TZFUDPMCEW5.uasset'
+[2025.03.31-19.42.16:325][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/4P/W7D96E3DYPPMYMJWHCHJ59
+[2025.03.31-19.42.16:325][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/W7D96E3DYPPMYMJWHCHJ59BD87B3DD416B6E3189A037AF3986EF13.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/2/4P/W7D96E3DYPPMYMJWHCHJ59.uasset'
+[2025.03.31-19.42.16:330][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/UN/91AWBJM8S09UURPMEJNTUG
+[2025.03.31-19.42.16:330][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/91AWBJM8S09UURPMEJNTUG0BCF2E7B4D0B44BCBBBE9F9726BBDA67.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/5/UN/91AWBJM8S09UURPMEJNTUG.uasset'
+[2025.03.31-19.42.16:335][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/ZL/BO205AVTF1H51WLJULZKDE
+[2025.03.31-19.42.16:335][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/BO205AVTF1H51WLJULZKDE402CD74342D579904D023D91F8D07869.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/7/ZL/BO205AVTF1H51WLJULZKDE.uasset'
+[2025.03.31-19.42.16:339][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/4P/FVZCFAHYN261SLBGVKYLQ2
+[2025.03.31-19.42.16:339][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/FVZCFAHYN261SLBGVKYLQ294FC5A564AA1C5A2C6F3EEB9F6565C3D.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/0/4P/FVZCFAHYN261SLBGVKYLQ2.uasset'
+[2025.03.31-19.42.16:344][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/MF/T2KIT9WWA5O7U7KOOMME36
+[2025.03.31-19.42.16:344][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/T2KIT9WWA5O7U7KOOMME369C8542554BC20C52E6D6F1B1E6905BB9.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/C/MF/T2KIT9WWA5O7U7KOOMME36.uasset'
+[2025.03.31-19.42.16:348][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/L8/XEWYHE4USPJO8RYIZ048VS
+[2025.03.31-19.42.16:348][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/XEWYHE4USPJO8RYIZ048VSEBA83FE349E11502ECA9348CF06F0BDA.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/9/L8/XEWYHE4USPJO8RYIZ048VS.uasset'
+[2025.03.31-19.42.16:352][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/8H/YI6CESF0ABS9YDUZ2U1YG8
+[2025.03.31-19.42.16:353][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/YI6CESF0ABS9YDUZ2U1YG83327589144D15E12D7465EB5CF9B9DBB.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/E/8H/YI6CESF0ABS9YDUZ2U1YG8.uasset'
+[2025.03.31-19.42.16:358][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/WJ/HOOYUZ3RW2QWE5BEYDM11G
+[2025.03.31-19.42.16:358][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/HOOYUZ3RW2QWE5BEYDM11G0ACA6E81470C8E9227B0FE8AAE03FAE0.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/2/WJ/HOOYUZ3RW2QWE5BEYDM11G.uasset'
+[2025.03.31-19.42.16:363][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/GA/EWFQW0H0JLO8BKRI7U64K2
+[2025.03.31-19.42.16:363][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/EWFQW0H0JLO8BKRI7U64K209A5DDEF425B25DB8B64939ED0297E63.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/9/GA/EWFQW0H0JLO8BKRI7U64K2.uasset'
+[2025.03.31-19.42.16:367][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/IA/99IPYCIBP4EO70G7NCXO6D
+[2025.03.31-19.42.16:367][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/99IPYCIBP4EO70G7NCXO6D0E67CA3F4E666E7A053FB3990139F4CB.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/4/IA/99IPYCIBP4EO70G7NCXO6D.uasset'
+[2025.03.31-19.42.16:371][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/SM/8F2B8YK2YY1FSYJ4CDD1LZ
+[2025.03.31-19.42.16:372][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/8F2B8YK2YY1FSYJ4CDD1LZ16E0435949C15620433AD9AA12515F1E.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/7/SM/8F2B8YK2YY1FSYJ4CDD1LZ.uasset'
+[2025.03.31-19.42.16:376][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/6B/A90KN4PDF9BYSQDRPALM93
+[2025.03.31-19.42.16:376][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/A90KN4PDF9BYSQDRPALM9369CC645B4F52C5D3DD9932BEA67655D7.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/1/6B/A90KN4PDF9BYSQDRPALM93.uasset'
+[2025.03.31-19.42.16:381][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/AC/HOVTEE68G7VAJSFOUK370Q
+[2025.03.31-19.42.16:381][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/HOVTEE68G7VAJSFOUK370Q60964AB549AACB386FAF5E870FD64E4D.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/0/AC/HOVTEE68G7VAJSFOUK370Q.uasset'
+[2025.03.31-19.42.16:386][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/RS/WMTOUKEV8K3FHUM25G8BWJ
+[2025.03.31-19.42.16:386][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/WMTOUKEV8K3FHUM25G8BWJ209B92AC43D1D24EB16EA389CBCB42C4.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/4/RS/WMTOUKEV8K3FHUM25G8BWJ.uasset'
+[2025.03.31-19.42.16:390][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/EI/4QOQXMV1Z7RA8SARUL0Y9E
+[2025.03.31-19.42.16:391][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/4QOQXMV1Z7RA8SARUL0Y9E9F58E8734C445AB3A9D738845BA2CEC4.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/EI/4QOQXMV1Z7RA8SARUL0Y9E.uasset'
+[2025.03.31-19.42.16:396][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/UV/743850F9OQFI148N0HVRR0
+[2025.03.31-19.42.16:396][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/743850F9OQFI148N0HVRR063E41FFC49C863A0D124FBA3D6370F61.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/6/UV/743850F9OQFI148N0HVRR0.uasset'
+[2025.03.31-19.42.16:401][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/JR/96V7FEXIDQ6YRE9WCXTO3L
+[2025.03.31-19.42.16:401][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/96V7FEXIDQ6YRE9WCXTO3L43D59E8E4943E225103B768CBF2FCCC9.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/0/JR/96V7FEXIDQ6YRE9WCXTO3L.uasset'
+[2025.03.31-19.42.16:406][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/31/YMWLVZUS39SZKKP6EY3D02
+[2025.03.31-19.42.16:406][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/YMWLVZUS39SZKKP6EY3D0285A6031643E6C5A52DE394B50AB3A0D9.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/1/31/YMWLVZUS39SZKKP6EY3D02.uasset'
+[2025.03.31-19.42.16:411][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/JV/7908X05DEKYVMHZDGVEVFX
+[2025.03.31-19.42.16:411][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/7908X05DEKYVMHZDGVEVFX8FC847EC4964E77A67FE4B8E07D2D940.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/9/JV/7908X05DEKYVMHZDGVEVFX.uasset'
+[2025.03.31-19.42.16:415][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/B/BT/16KZACDPXTP4Z8S5D4BZ0W
+[2025.03.31-19.42.16:415][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/16KZACDPXTP4Z8S5D4BZ0W4F3D62AC4BABD485E5CB02B22DCD8C0F.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/B/BT/16KZACDPXTP4Z8S5D4BZ0W.uasset'
+[2025.03.31-19.42.16:421][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/X9/8ASSQYJI2TVL4NB03GHN2Y
+[2025.03.31-19.42.16:421][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/8ASSQYJI2TVL4NB03GHN2Y8BCA8A3D4877FE4344B7EA946CC2A1F2.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/C/X9/8ASSQYJI2TVL4NB03GHN2Y.uasset'
+[2025.03.31-19.42.16:425][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/UC/84I1258OPSKDPG5SEL0985
+[2025.03.31-19.42.16:425][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/84I1258OPSKDPG5SEL0985528D7C7246F41E63CBB7FDA3A333B8E2.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/UC/84I1258OPSKDPG5SEL0985.uasset'
+[2025.03.31-19.42.16:430][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/QI/A0ZTV8S9W9Y0PRY5NNQJKU
+[2025.03.31-19.42.16:430][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/A0ZTV8S9W9Y0PRY5NNQJKU73F3819F46933DA990E2AE9B8887EEAD.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/1/QI/A0ZTV8S9W9Y0PRY5NNQJKU.uasset'
+[2025.03.31-19.42.16:436][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/8Y/PEVY7T6FU8CAR13QMRYRHH
+[2025.03.31-19.42.16:436][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/PEVY7T6FU8CAR13QMRYRHH9E9C507346C06BAA19641B8638431174.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/3/8Y/PEVY7T6FU8CAR13QMRYRHH.uasset'
+[2025.03.31-19.42.16:440][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/PM/UNP76Q21SVMI272RXI3AGK
+[2025.03.31-19.42.16:440][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/UNP76Q21SVMI272RXI3AGK5BAC20A9474EC26109ED62AE69C62FB8.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/2/PM/UNP76Q21SVMI272RXI3AGK.uasset'
+[2025.03.31-19.42.16:444][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/ER/5M1849BTWZ388ZXQKPK7AB
+[2025.03.31-19.42.16:444][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/5M1849BTWZ388ZXQKPK7AB0F74567C4EF04D0A7B0B6C885B3E1FA3.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/8/ER/5M1849BTWZ388ZXQKPK7AB.uasset'
+[2025.03.31-19.42.16:449][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/95/8WUYYCMXX15BI3ANA0HQL2
+[2025.03.31-19.42.16:450][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/8WUYYCMXX15BI3ANA0HQL27713B8B94B73D59A53A6DF9B5034BB43.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/0/95/8WUYYCMXX15BI3ANA0HQL2.uasset'
+[2025.03.31-19.42.16:454][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/4F/HHY9CLN6GWOEY7MEKH8DDK
+[2025.03.31-19.42.16:454][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/HHY9CLN6GWOEY7MEKH8DDK123E59C144176AC29BAB0C8B5AC6A4F3.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/1/4F/HHY9CLN6GWOEY7MEKH8DDK.uasset'
+[2025.03.31-19.42.16:458][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/15/9YKH8L8Z5C0IIMN27KK2VZ
+[2025.03.31-19.42.16:458][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/9YKH8L8Z5C0IIMN27KK2VZ690A66DE4DF27FBD31BD55AE91C79C5E.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/8/15/9YKH8L8Z5C0IIMN27KK2VZ.uasset'
+[2025.03.31-19.42.16:463][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/N3/83YOOR0H2EPQ81F5LWFO38
+[2025.03.31-19.42.16:463][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/83YOOR0H2EPQ81F5LWFO38DE302C294E84C7F4CD873FA1DD42097A.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/N3/83YOOR0H2EPQ81F5LWFO38.uasset'
+[2025.03.31-19.42.16:467][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/IX/QB4R3CRHV6SQ401B0EBGID
+[2025.03.31-19.42.16:467][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/QB4R3CRHV6SQ401B0EBGID605BC8494B70158E72CD7EB287719039.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/4/IX/QB4R3CRHV6SQ401B0EBGID.uasset'
+[2025.03.31-19.42.16:474][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/KQ/CUA374J9FP9AFFTXJ7T5ZP
+[2025.03.31-19.42.16:474][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/CUA374J9FP9AFFTXJ7T5ZP126F0420420A9B50C5DEDC93703F9BA3.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/9/KQ/CUA374J9FP9AFFTXJ7T5ZP.uasset'
+[2025.03.31-19.42.16:478][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/4X/GN0XA8QGIIL4B5QHYDFPY9
+[2025.03.31-19.42.16:478][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/GN0XA8QGIIL4B5QHYDFPY9D845E9B643A3B86C4AF1F08FF2A1B901.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/4X/GN0XA8QGIIL4B5QHYDFPY9.uasset'
+[2025.03.31-19.42.16:483][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/B5/9L52R62XVE5E9BH06KPJKH
+[2025.03.31-19.42.16:483][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/9L52R62XVE5E9BH06KPJKH8628574C495A31A2C215C49C68FDB414.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/2/B5/9L52R62XVE5E9BH06KPJKH.uasset'
+[2025.03.31-19.42.16:487][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/LB/DFA9VVD121ROTY5NBEC13Y
+[2025.03.31-19.42.16:488][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/DFA9VVD121ROTY5NBEC13Y85EF186941ECF589F35F23BC1260720F.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/3/LB/DFA9VVD121ROTY5NBEC13Y.uasset'
+[2025.03.31-19.42.16:493][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/FE/YB3M9P5BEKTAG0L64PFTJ3
+[2025.03.31-19.42.16:493][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/YB3M9P5BEKTAG0L64PFTJ33D35367941F10B2CECD7F7844466AB0C.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/7/FE/YB3M9P5BEKTAG0L64PFTJ3.uasset'
+[2025.03.31-19.42.16:497][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/02/IJ8HC1RVA6VSYU9C7T2FX4
+[2025.03.31-19.42.16:497][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/IJ8HC1RVA6VSYU9C7T2FX48595A9794B3646C280CC7DAA05067766.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/5/02/IJ8HC1RVA6VSYU9C7T2FX4.uasset'
+[2025.03.31-19.42.16:502][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/OF/9WTLWT7YQX2L3Q3TAT0130
+[2025.03.31-19.42.16:502][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/9WTLWT7YQX2L3Q3TAT0130093C4C0649EB85D0A62ED3A9A1408348.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/8/OF/9WTLWT7YQX2L3Q3TAT0130.uasset'
+[2025.03.31-19.42.16:506][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/16/BFWQBLV6I27BBRHR1PJOLX
+[2025.03.31-19.42.16:506][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/BFWQBLV6I27BBRHR1PJOLXEF2AFD984A3EBCD71F2E76A909F99A3E.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/1/16/BFWQBLV6I27BBRHR1PJOLX.uasset'
+[2025.03.31-19.42.16:511][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/MO/TAQEW1E1C82JUFXW9HST5I
+[2025.03.31-19.42.16:511][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/TAQEW1E1C82JUFXW9HST5IF4EEFF724A6FAA7EEBE1C1B92F250CD3.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/2/MO/TAQEW1E1C82JUFXW9HST5I.uasset'
+[2025.03.31-19.42.16:516][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/AK/MAPJMW9NWYWC79NT2QNDDW
+[2025.03.31-19.42.16:517][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/MAPJMW9NWYWC79NT2QNDDW356B6A4B4645AB05EFE26FB2492CE2F8.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/3/AK/MAPJMW9NWYWC79NT2QNDDW.uasset'
+[2025.03.31-19.42.16:521][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/MA/NHJ192PDCQXCXQ2HQBMY8K
+[2025.03.31-19.42.16:521][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/NHJ192PDCQXCXQ2HQBMY8K823316A9428A73872829E590CA61470D.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/9/MA/NHJ192PDCQXCXQ2HQBMY8K.uasset'
+[2025.03.31-19.42.16:526][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/GX/L3LD2P7KMUNO4QPHEMBTVD
+[2025.03.31-19.42.16:526][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/L3LD2P7KMUNO4QPHEMBTVDC1CE96254E5B437939C0759EA8E1F339.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/8/GX/L3LD2P7KMUNO4QPHEMBTVD.uasset'
+[2025.03.31-19.42.16:531][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/7W/JK8UCU1PU2ABZQP90FEX7I
+[2025.03.31-19.42.16:531][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/JK8UCU1PU2ABZQP90FEX7ICE715B384EF35665ECFC5C9AAE2AABA1.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/2/7W/JK8UCU1PU2ABZQP90FEX7I.uasset'
+[2025.03.31-19.42.16:535][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/2Y/OJWKRQAOOT0OHBWZTOW73R
+[2025.03.31-19.42.16:535][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/OJWKRQAOOT0OHBWZTOW73R722A304743993ABD2FDC9DA978BA5476.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/E/2Y/OJWKRQAOOT0OHBWZTOW73R.uasset'
+[2025.03.31-19.42.16:537][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/ZD/BJC0CD8C6CU3L2R9BPMP2L
+[2025.03.31-19.42.16:538][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/BJC0CD8C6CU3L2R9BPMP2LF6E32F5D4840BE65CBEA149A5FB26BAB.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/ZD/BJC0CD8C6CU3L2R9BPMP2L.uasset'
+[2025.03.31-19.42.16:539][642]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/R5/F986KWZ6978PVJHA5ZZ0FD
+[2025.03.31-19.42.16:539][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/F986KWZ6978PVJHA5ZZ0FD825598D54A7B486EB2540A8772EF21B1.tmp' to '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Content/__ExternalActors__/Untitled/D/R5/F986KWZ6978PVJHA5ZZ0FD.uasset'
+[2025.03.31-19.42.16:541][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.30 sec (total: 3.51 sec)
+[2025.03.31-19.42.16:544][642]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Untitled_HLOD0_Instancing
+/Game/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF
+/Game/__ExternalObjects__/Untitled/4/HU/B285Y38RMUAD5X0BOB317C
+/Game/__ExternalObjects__/Untitled/B/8X/IY4PEMN9UZYDE7BEBHFW5H
+/Game/__ExternalObjects__/Untitled/1/A5/R3LGPWB6PMS7IVCUS30K59
+/Game/__ExternalObjects__/Untitled/8/MK/U2AR470CV8I49WKHE35892
+/Game/__ExternalObjects__/Untitled/8/WO/VW6BB6ON1O5P9P6D4TNIKG
+/Game/__ExternalObjects__/Untitled/A/3B/C169NY21IYHWNPNC5K8H2X
+/Game/__ExternalActors__/Untitled/C/JJ/2KM5RW3RB8MQTC5Z5QAP86
+/Game/__ExternalActors__/Untitled/D/U3/F9ZCV1ZQZIEFW41ASA7N1E
+/Game/__ExternalActors__/Untitled/D/FV/1KGJYU8K12XHN6XNLSYMBQ
+/Game/__ExternalActors__/Untitled/1/JL/ZK9VQR5UXVP37810TVO5YO
+/Game/__ExternalActors__/Untitled/7/L8/Y18E0V91UKJME7Q2OB3P5K
+/Game/__ExternalActors__/Untitled/D/C1/HS6V3BNZ7H6AKPXHPEX1M7
+/Game/__ExternalActors__/Untitled/0/YK/K6UPO231BY2JGT7QL36BEO
+/Game/__ExternalActors__/Untitled/E/7X/0GCTIMNEBVF8AOXPOXOJMW
+/Game/__ExternalActors__/Untitled/3/0C/B2JMGSH9XFZI7GT8M36JMF
+/Game/__ExternalActors__/Untitled/D/SW/W8795T2GDG12XXM5U16N9I
+/Game/__ExternalActors__/Untitled/5/6P/TZTEGS7BV2V5AXK97N4747
+/Game/__ExternalActors__/Untitled/D/39/H32T5U1Q8KNHDYD5J4ES73
+/Game/__ExternalActors__/Untitled/6/KE/OIGRKUBFQ7K03JW0AYCTV5
+/Game/__ExternalActors__/Untitled/1/88/91A6XDDNFM52BRAOQB9C7N
+/Game/__ExternalActors__/Untitled/A/IV/F2UCV3PMQVPC9OA6Y0XXG3
+/Game/__ExternalActors__/Untitled/3/03/C9M91X2IU3VSISEPAAR2J6
+/Game/__ExternalActors__/Untitled/B/3B/TMAFS2SESKUD4KOAG2NJ49
+/Game/__ExternalActors__/Untitled/5/YO/RTR8JDENQERG3GOYNFL652
+/Game/__ExternalActors__/Untitled/8/IV/H0MMTUZ996JY5Z931CM553
+/Game/__ExternalActors__/Untitled/0/8Y/SDDUZVFBIE0MB1SKJOTUE0
+/Game/__ExternalActors__/Untitled/A/GQ/Z1GJ8KGAV56S5I7H40160C
+/Game/__ExternalActors__/Untitled/4/DG/S0UKF9OUZ4ZHKU3LHS4676
+/Game/__ExternalActors__/Untitled/4/TV/GKOPEC6UIIHJ9LBXKLD7UM
+/Game/__ExternalActors__/Untitled/3/5C/V2OCRSLOSFHUS6S9LPDM10
+/Game/__ExternalActors__/Untitled/6/AL/EUPIOBVK6UMCF23HOCCEU3
+/Game/__ExternalActors__/Untitled/5/P9/Y5TXGWIE2U6BVSRHM3CBRL
+/Game/__ExternalActors__/Untitled/D/NM/BA3WQIS9O921IEUJ5HLEG5
+/Game/__ExternalActors__/Untitled/C/26/ZBUFF8X49WNUB8XW4T6JOF
+/Game/__ExternalActors__/Untitled/5/PT/I1CXE7YA8N7EOIF6S2LUNU
+/Game/__ExternalActors__/Untitled/C/8L/3CODS11OI75V0WX0JS91GF
+/Game/__ExternalActors__/Untitled/6/2F/4YJUFZ5EQ0DYYJ7YPLLALQ
+/Game/__ExternalActors__/Untitled/6/78/NR4DRMJJN85GU6E9FTRA0C
+/Game/__ExternalActors__/Untitled/D/1Y/LOC77QZ3MD1ZFKG90D5EP3
+/Game/__ExternalActors__/Untitled/D/BA/QUO0AEFJ38VWG80ZC1OF80
+/Game/__ExternalActors__/Untitled/1/1R/M0B50OLRXLIM0AHT0NV3LE
+/Game/__ExternalActors__/Untitled/C/UL/FCX003UHDFE1XFF1UYEKB8
+/Game/__ExternalActors__/Untitled/B/JP/PRDWJX5HHWIFD0T7RJ6OUB
+/Game/__ExternalActors__/Untitled/E/KM/6LU1RLRCO82PA3M8IZWHFG
+/Game/__ExternalActors__/Untitled/3/3W/Q0EVUK3U5XPDZDNHKTBSLP
+/Game/__ExternalActors__/Untitled/E/F1/MDBU119X329MP1N6H3D543
+/Game/__ExternalActors__/Untitled/8/78/J445VYKJUTLNEBUTN5JFSX
+/Game/__ExternalActors__/Untitled/9/BQ/9DT5QPLF7KD6YB8VPR7LE1
+/Game/__ExternalActors__/Untitled/E/MU/LNHD27GINT2578B3TZYQRM
+/Game/__ExternalActors__/Untitled/5/XC/PTON9ZHKVA2YYM6OQVKGB2
+/Game/__ExternalActors__/Untitled/7/2A/3SH27DERCHJSHZDQM19U56
+/Game/__ExternalActors__/Untitled/2/FS/YFTU31AIP02GLV9QYB3OAQ
+/Game/__ExternalActors__/Untitled/3/SV/A9DJ5UP9TCM1HX8LNL9YMB
+/Game/__ExternalActors__/Untitled/5/YI/ZJ11KYNNPW461PLOWQD26D
+/Game/__ExternalActors__/Untitled/8/KG/P4FT47HC1MCSOGH2WSE38M
+/Game/__ExternalActors__/Untitled/7/UU/T0ZQNCIJWLLSMBV45U9UNS
+/Game/__ExternalActors__/Untitled/B/19/N0FO3VW9PMSIQGODLR8OHK
+/Game/__ExternalActors__/Untitled/1/X9/T0P80E587PN0FI1P1SY900
+/Game/__ExternalActors__/Untitled/7/KO/HBTFQ946P5JEK2VINSXFF6
+/Game/__ExternalActors__/Untitled/1/ZR/BS9RFRC48BZCNCJGUFIL41
+/Game/__ExternalActors__/Untitled/8/SI/X9FK3ZHPHSO5EQPDKGIUR6
+/Game/__ExternalActors__/Untitled/3/AP/1KJ2KRD4PP3Z0SLYN7WFIE
+/Game/__ExternalActors__/Untitled/2/TD/9EBCA33K4RSQN59I5SZIQH
+/Game/__ExternalActors__/Untitled/D/AY/1YG3IP1RLO5CDOBVQ0W0RA
+/Game/__ExternalActors__/Untitled/D/PU/4DA3AUPUZMAQWTIQT205ZY
+/Game/__ExternalActors__/Untitled/1/WJ/7L5OB0P2MOJN0JVT0IO388
+/Game/__ExternalActors__/Untitled/9/Y5/82VFC1UWWA110XOOEJ158E
+/Game/__ExternalActors__/Untitled/A/YZ/YX06X250S5OVC9ACDIZ2EJ
+/Game/__ExternalActors__/Untitled/9/BE/ZFTWYVA2AW3K7IZGVNFI9L
+/Game/__ExternalActors__/Untitled/1/FB/UZK8LGMDWLF7LHM5AQVVMX
+/Game/__ExternalActors__/Untitled/A/AG/KECGBPL7YSM95LL88MMB8I
+/Game/__ExternalActors__/Untitled/3/AX/XID5TZXXMZIHV596JMGTU7
+/Game/__ExternalActors__/Untitled/1/E8/7OERKV5DBN9AKH9OGFA22L
+/Game/__ExternalActors__/Untitled/8/RC/KUGNOG85HLKEE7Q39VX85T
+/Game/__ExternalActors__/Untitled/6/WU/6N24LSH1JBQH6WL2ATPWE1
+/Game/__ExternalActors__/Untitled/9/K0/21YIO1N87PSV94GJ48ZOX7
+/Game/__ExternalActors__/Untitled/A/DW/8L46K1WD89YDHPA4PA1YQO
+/Game/__ExternalActors__/Untitled/3/LO/2L34HDZPM4CJROKPRLKZ5E
+/Game/__ExternalActors__/Untitled/9/44/XDORVWH31K9O5U948J6UPN
+/Game/__ExternalActors__/Untitled/2/9L/EOQQBNIX06TRZ5JKHNXS6H
+/Game/__ExternalActors__/Untitled/7/VH/UKHYJQL74V2MP5LKZYHH11
+/Game/__ExternalActors__/Untitled/4/UM/B5BRDG8V1RJL3TWM4HR0OJ
+/Game/__ExternalActors__/Untitled/C/VA/5H66W3HWF2PTGWEWXIG0XI
+/Game/__ExternalActors__/Untitled/B/HE/6XMYFGC6A8NS1PR1SOBI7D
+/Game/__ExternalActors__/Untitled/1/JZ/TVNAEBT2XB4FBCJVHSWPJG
+/Game/__ExternalActors__/Untitled/8/4O/6JQEC7C7J07T44BN9XRKKB
+/Game/__ExternalActors__/Untitled/A/TZ/H7X8SJH9IRNM65SZGY3GOB
+/Game/__ExternalActors__/Untitled/A/YA/AK1XLDR5V9IUUYHS9LT826
+/Game/__ExternalActors__/Untitled/C/1Y/5H7RHZCAR91A9DL66DYQZ1
+/Game/__ExternalActors__/Untitled/4/S4/QQGZ7DAJCRY5GXHVDJWZ63
+/Game/__ExternalActors__/Untitled/0/BC/U8A7EELOY8P7KI64DKFYDH
+/Game/__ExternalActors__/Untitled/C/R8/U69SAKGZ8JYPM3OB6EX0QD
+/Game/__ExternalActors__/Untitled/A/II/4DHYLSBPUFMH473Q8O9S2B
+/Game/__ExternalActors__/Untitled/1/ZP/X3NZJS0FIHM08ZXW8E8NQU
+/Game/__ExternalActors__/Untitled/D/4A/ABY732A12WGV65UUF87JLR
+/Game/__ExternalActors__/Untitled/6/T6/JZ5OSIKWQ7NAUADHTIMLAW
+/Game/__ExternalActors__/Untitled/A/KQ/2XH64GEWX5DX4PBIMSZNI2
+/Game/__ExternalActors__/Untitled/C/S6/LDLY18TSK27TZFUDPMCEW5
+/Game/__ExternalActors__/Untitled/2/4P/W7D96E3DYPPMYMJWHCHJ59
+/Game/__ExternalActors__/Untitled/5/UN/91AWBJM8S09UURPMEJNTUG
+/Game/__ExternalActors__/Untitled/7/ZL/BO205AVTF1H51WLJULZKDE
+/Game/__ExternalActors__/Untitled/0/4P/FVZCFAHYN261SLBGVKYLQ2
+/Game/__ExternalActors__/Untitled/C/MF/T2KIT9WWA5O7U7KOOMME36
+/Game/__ExternalActors__/Untitled/9/L8/XEWYHE4USPJO8RYIZ048VS
+/Game/__ExternalActors__/Untitled/E/8H/YI6CESF0ABS9YDUZ2U1YG8
+/Game/__ExternalActors__/Untitled/2/WJ/HOOYUZ3RW2QWE5BEYDM11G
+/Game/__ExternalActors__/Untitled/9/GA/EWFQW0H0JLO8BKRI7U64K2
+/Game/__ExternalActors__/Untitled/4/IA/99IPYCIBP4EO70G7NCXO6D
+/Game/__ExternalActors__/Untitled/7/SM/8F2B8YK2YY1FSYJ4CDD1LZ
+/Game/__ExternalActors__/Untitled/1/6B/A90KN4PDF9BYSQDRPALM93
+/Game/__ExternalActors__/Untitled/0/AC/HOVTEE68G7VAJSFOUK370Q
+/Game/__ExternalActors__/Untitled/4/RS/WMTOUKEV8K3FHUM25G8BWJ
+/Game/__ExternalActors__/Untitled/D/EI/4QOQXMV1Z7RA8SARUL0Y9E
+/Game/__ExternalActors__/Untitled/6/UV/743850F9OQFI148N0HVRR0
+/Game/__ExternalActors__/Untitled/0/JR/96V7FEXIDQ6YRE9WCXTO3L
+/Game/__ExternalActors__/Untitled/1/31/YMWLVZUS39SZKKP6EY3D02
+/Game/__ExternalActors__/Untitled/9/JV/7908X05DEKYVMHZDGVEVFX
+/Game/__ExternalActors__/Untitled/B/BT/16KZACDPXTP4Z8S5D4BZ0W
+/Game/__ExternalActors__/Untitled/C/X9/8ASSQYJI2TVL4NB03GHN2Y
+/Game/__ExternalActors__/Untitled/D/UC/84I1258OPSKDPG5SEL0985
+/Game/__ExternalActors__/Untitled/1/QI/A0ZTV8S9W9Y0PRY5NNQJKU
+/Game/__ExternalActors__/Untitled/3/8Y/PEVY7T6FU8CAR13QMRYRHH
+/Game/__ExternalActors__/Untitled/2/PM/UNP76Q21SVMI272RXI3AGK
+/Game/__ExternalActors__/Untitled/8/ER/5M1849BTWZ388ZXQKPK7AB
+/Game/__ExternalActors__/Untitled/0/95/8WUYYCMXX15BI3ANA0HQL2
+/Game/__ExternalActors__/Untitled/1/4F/HHY9CLN6GWOEY7MEKH8DDK
+/Game/__ExternalActors__/Untitled/8/15/9YKH8L8Z5C0IIMN27KK2VZ
+/Game/__ExternalActors__/Untitled/D/N3/83YOOR0H2EPQ81F5LWFO38
+/Game/__ExternalActors__/Untitled/4/IX/QB4R3CRHV6SQ401B0EBGID
+/Game/__ExternalActors__/Untitled/9/KQ/CUA374J9FP9AFFTXJ7T5ZP
+/Game/__ExternalActors__/Untitled/D/4X/GN0XA8QGIIL4B5QHYDFPY9
+/Game/__ExternalActors__/Untitled/2/B5/9L52R62XVE5E9BH06KPJKH
+/Game/__ExternalActors__/Untitled/3/LB/DFA9VVD121ROTY5NBEC13Y
+/Game/__ExternalActors__/Untitled/7/FE/YB3M9P5BEKTAG0L64PFTJ3
+/Game/__ExternalActors__/Untitled/5/02/IJ8HC1RVA6VSYU9C7T2FX4
+/Game/__ExternalActors__/Untitled/8/OF/9WTLWT7YQX2L3Q3TAT0130
+/Game/__ExternalActors__/Untitled/1/16/BFWQBLV6I27BBRHR1PJOLX
+/Game/__ExternalActors__/Untitled/2/MO/TAQEW1E1C82JUFXW9HST5I
+/Game/__ExternalActors__/Untitled/3/AK/MAPJMW9NWYWC79NT2QNDDW
+/Game/__ExternalActors__/Untitled/9/MA/NHJ192PDCQXCXQ2HQBMY8K
+/Game/__ExternalActors__/Untitled/8/GX/L3LD2P7KMUNO4QPHEMBTVD
+/Game/__ExternalActors__/Untitled/2/7W/JK8UCU1PU2ABZQP90FEX7I
+/Game/__ExternalActors__/Untitled/E/2Y/OJWKRQAOOT0OHBWZTOW73R
+/Game/__ExternalActors__/Untitled/D/ZD/BJC0CD8C6CU3L2R9BPMP2L
+/Game/__ExternalActors__/Untitled/D/R5/F986KWZ6978PVJHA5ZZ0FD
+[2025.03.31-19.42.16:561][642]LogFileHelpers: Saving map 'Untitled' took 1.625
+[2025.03.31-19.42.16:561][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/OpenWorldTemplate/NewBlueprint] ([2] browsable assets)...
+[2025.03.31-19.42.16:561][642]OBJ SavePackage: Finished generating thumbnails for package [/Engine/OpenWorldTemplate/NewBlueprint]
+[2025.03.31-19.42.16:561][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/OpenWorldTemplate/NewBlueprint" FILE="../../../Engine/Content/OpenWorldTemplate/NewBlueprint.uasset" SILENT=true
+[2025.03.31-19.42.16:564][642]LogSavePackage: Moving output files for package: /Engine/OpenWorldTemplate/NewBlueprint
+[2025.03.31-19.42.16:564][642]LogSavePackage: Moving '../../../../Deepseek/SHU-GAD-PanYiChen/MyProject2/Saved/NewBlueprint6F53D5EB4AAD3CAB405987849B221E76.tmp' to '../../../Engine/Content/OpenWorldTemplate/NewBlueprint.uasset'
+[2025.03.31-19.42.16:567][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.99 sec (total: 6.51 sec)
+[2025.03.31-19.42.16:590][642]LogContentValidation: Display: Starting to validate 149 assets
+[2025.03.31-19.42.16:590][642]LogContentValidation: Enabled validators:
+[2025.03.31-19.42.16:590][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-19.42.16:590][642]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-19.42.16:590][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-19.42.16:590][642]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-19.42.16:590][642]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-19.42.16:590][642]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-19.42.16:591][642]AssetCheck: /Game/Untitled Validating asset
+[2025.03.31-19.42.16:591][642]AssetCheck: /Game/Untitled_HLOD0_Instancing Validating asset
+[2025.03.31-19.42.16:591][642]AssetCheck: /Engine/OpenWorldTemplate/NewBlueprint Validating asset
+[2025.03.31-19.42.59:004][144]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
