@@ -1,0 +1,29 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "try2",
+   "GUID": "{CFC1DF31-5096-47EA-A3B2-C9C58AD1D0C4}",
+   "Generator": "2024.1.3.8749"
+  },
+  "CacheRoot": "../../try2/.cache",
+  "Platforms": [
+   {
+    "Name": "Windows",
+    "GUID": "{7EE7BC8A-B781-4FF7-9564-4DEFBBB37883}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "../../try2/GeneratedSoundBanks/Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{6B03FE40-ABAE-46EE-8F42-C2E81BCCB79D}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{791D3602-28C3-E386-1A1E-EE802035893D}"
+ }
+}

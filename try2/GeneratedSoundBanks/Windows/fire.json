@@ -1,0 +1,88 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2678880713",
+    "Type": "User",
+    "GUID": "{E8756C3F-D690-451E-B81C-380321877DB3}",
+    "Language": "SFX",
+    "Hash": "{F3AB23D4-C8E7-1B59-5C2D-F72BBA8482B8}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\fire",
+    "ShortName": "fire",
+    "Path": "fire.bnk",
+    "Media": [
+     {
+      "Id": "342414660",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "OBJ_Campfire_Burn_Loop.wav",
+      "CachePath": "AB/{AB42B63C-3B9C-A309-4844-6175C2AD5EB0}.wem"
+     }
+    ],
+    "Plugins": {
+     "Custom": [
+      {
+       "Id": "696226765",
+       "Name": "Peak Limiter (Custom)",
+       "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\AudioBus\\Reverb_inroom\\[Effect Slot [0]: (Peak Limiter)]\\Peak Limiter (Custom)",
+       "GUID": "{6400432A-D98D-4F10-8643-E7552861AA6A}",
+       "LibName": "Wwise Peak Limiter",
+       "LibId": "7208963"
+      }
+     ]
+    },
+    "Events": [
+     {
+      "Id": "3609565814",
+      "Name": "fireburn",
+      "ObjectPath": "\\Events\\Default Work Unit\\fireburn",
+      "GUID": "{3286E074-5085-4CDA-9940-104D51F5963A}",
+      "DurationType": "OneShot",
+      "DurationMin": "30",
+      "DurationMax": "30",
+      "MediaRefs": [
+       {
+        "Id": "342414660"
+       }
+      ]
+     }
+    ],
+    "Busses": [
+     {
+      "Id": "1445131385",
+      "Name": "AudioBus",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\AudioBus",
+      "GUID": "{80CE0526-170B-4F4E-B2DC-09DC61ED30FB}"
+     },
+     {
+      "Id": "3803692087",
+      "Name": "Master Audio Bus",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus",
+      "GUID": "{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"
+     }
+    ],
+    "AuxBusses": [
+     {
+      "Id": "3433901560",
+      "Name": "Reverb_inroom",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\AudioBus\\Reverb_inroom",
+      "GUID": "{8895D0CE-1FE4-4966-81D8-F955D9332761}",
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "696226765"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{342530F6-2467-7AFE-3AC8-79D7BFA0DA30}"
+ }
+}
