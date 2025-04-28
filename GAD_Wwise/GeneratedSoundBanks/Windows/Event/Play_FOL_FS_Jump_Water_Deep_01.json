@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3227644413",
+    "Type": "Event",
+    "GUID": "{09D577B3-8430-49B8-A565-6B4ADB743BCB}",
+    "Language": "SFX",
+    "Hash": "{26EF9A10-E233-4C87-F7BD-60C1D9BE7F28}",
+    "ObjectPath": "Play_FOL_FS_Jump_Water_Deep_01",
+    "ShortName": "Play_FOL_FS_Jump_Water_Deep_01",
+    "Path": "Event/Play_FOL_FS_Jump_Water_Deep_01.bnk",
+    "Media": [
+     {
+      "Id": "843602185",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Jump_Water_Deep_01.wav",
+      "Path": "Media/843602185.wem",
+      "CachePath": "02/{02CCA3BB-FFAE-B83E-736A-6804C219D1D4}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3227644413",
+      "Name": "Play_FOL_FS_Jump_Water_Deep_01",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_FOL_FS_Jump_Water_Deep_01",
+      "GUID": "{09D577B3-8430-49B8-A565-6B4ADB743BCB}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.85552084",
+      "DurationMax": "0.85552084",
+      "MediaRefs": [
+       {
+        "Id": "843602185"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{3CAFB8C3-5C9B-859A-0239-C0FB5559F8AA}"
+ }
+}

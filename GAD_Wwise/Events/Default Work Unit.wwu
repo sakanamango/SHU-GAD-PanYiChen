@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{9BA4719E-29C3-4342-BB95-6ADDFC58C480}" SchemaVersion="123">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{9BA4719E-29C3-4342-BB95-6ADDFC58C480}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{9BA4719E-29C3-4342-BB95-6ADDFC58C480}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_FOL_FS_Jump_Water_Deep_01" ID="{09D577B3-8430-49B8-A565-6B4ADB743BCB}">
+					<ChildrenList>
+						<Action Name="" ID="{186CBE13-A581-4ED3-A466-38D6E50539E0}" ShortID="413772627">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FOL_FS_Jump_Water_Deep_01" ID="{E24975EC-1DE4-42EE-8118-F5C1DD7C8258}" WorkUnitID="{FCF38ACA-3F82-4328-BC5A-708A5E3FD765}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>

@@ -1,0 +1,29 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "GAD_Wwise",
+   "GUID": "{77E3F05E-E7C6-49C6-93D3-49E28BA849AB}",
+   "Generator": "2024.1.3.8749"
+  },
+  "CacheRoot": "../.cache",
+  "Platforms": [
+   {
+    "Name": "Windows",
+    "GUID": "{F85CF099-38D0-44A1-B53B-E00067B48E63}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{0187A855-8F34-4A50-936F-690809BF2829}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{9A0EDB66-7979-7A2C-E798-38FA2004842D}"
+ }
+}
