@@ -7,13 +7,14 @@
 					<PropertyList>
 						<Property Name="3DSpatialization" Type="int16" Value="1"/>
 						<Property Name="EnableDiffraction" Type="bool" Value="True"/>
+						<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Attenuation">
 							<Custom>
 								<Attenuation Name="Attenuation (Custom)" ID="{1C2ECC6F-BEA0-4794-A003-8BCA6605B87A}" ShortID="716191292">
 									<PropertyList>
-										<Property Name="RadiusMax" Type="Real64" Value="1000"/>
+										<Property Name="RadiusMax" Type="Real64" Value="2000"/>
 									</PropertyList>
 									<CurveUsageInfoList>
 										<VolumeDryUsage>
@@ -27,9 +28,16 @@
 															<XPos>0</XPos>
 															<YPos>0</YPos>
 															<Flags>5</Flags>
+															<SegmentShape>Log1</SegmentShape>
 														</Point>
 														<Point>
-															<XPos>1000</XPos>
+															<XPos>507.37463</XPos>
+															<YPos>-8.686</YPos>
+															<Flags>0</Flags>
+															<SegmentShape>Log2</SegmentShape>
+														</Point>
+														<Point>
+															<XPos>2000</XPos>
 															<YPos>-200</YPos>
 															<Flags>37</Flags>
 														</Point>
@@ -51,7 +59,7 @@
 															<SegmentShape>Exp2</SegmentShape>
 														</Point>
 														<Point>
-															<XPos>1000</XPos>
+															<XPos>2000</XPos>
 															<YPos>-200</YPos>
 															<Flags>37</Flags>
 														</Point>
@@ -72,7 +80,7 @@
 															<Flags>5</Flags>
 														</Point>
 														<Point>
-															<XPos>1000</XPos>
+															<XPos>2000</XPos>
 															<YPos>-200</YPos>
 															<Flags>37</Flags>
 														</Point>
@@ -93,7 +101,7 @@
 															<Flags>5</Flags>
 														</Point>
 														<Point>
-															<XPos>1000</XPos>
+															<XPos>2000</XPos>
 															<YPos>41</YPos>
 															<Flags>37</Flags>
 														</Point>
@@ -114,7 +122,7 @@
 															<Flags>5</Flags>
 														</Point>
 														<Point>
-															<XPos>1000</XPos>
+															<XPos>2000</XPos>
 															<YPos>56</YPos>
 															<Flags>37</Flags>
 														</Point>
@@ -131,11 +139,11 @@
 													<PointList>
 														<Point>
 															<XPos>0</XPos>
-															<YPos>31.53153</YPos>
+															<YPos>69.55548</YPos>
 															<Flags>5</Flags>
 														</Point>
 														<Point>
-															<XPos>1000</XPos>
+															<XPos>2000</XPos>
 															<YPos>0</YPos>
 															<Flags>37</Flags>
 														</Point>
@@ -213,6 +221,11 @@
 									</ModifierList>
 								</Property>
 								<Property Name="PlayMechanismStepOrContinuous" Type="int16" Value="0"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>2</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -400,7 +413,7 @@
 								<Property Name="PlayMechanismStepOrContinuous" Type="int16" Value="0"/>
 								<Property Name="Volume" Type="Real64">
 									<ValueList>
-										<Value>-2</Value>
+										<Value>1</Value>
 									</ValueList>
 								</Property>
 							</PropertyList>
@@ -572,6 +585,11 @@
 						<Sound Name="OBJ_Campfire_Burn_Loop" ID="{B35531A7-0FC6-4D9E-821A-C304D900DEC1}" ShortID="476256725">
 							<PropertyList>
 								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>2</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">

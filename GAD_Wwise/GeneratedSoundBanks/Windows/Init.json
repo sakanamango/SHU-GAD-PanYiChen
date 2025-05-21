@@ -135,6 +135,54 @@
       "GUID": "{EDA87B19-73AA-40A0-9F19-2073606DB710}"
      }
     ],
+    "SwitchGroups": [
+     {
+      "Id": "2413944604",
+      "Name": "ShoeType",
+      "ObjectPath": "\\Switches\\Default Work Unit\\ShoeType",
+      "GUID": "{0B07380F-C81D-4E3C-BA44-030832BE6F46}",
+      "Switches": [
+       {
+        "Id": "3129509287",
+        "Name": "Highheel",
+        "ObjectPath": "\\Switches\\Default Work Unit\\ShoeType\\Highheel",
+        "GUID": "{E7F926D6-1A35-4812-80C3-774DE8AC8D1D}"
+       }
+      ]
+     },
+     {
+      "Id": "3865314626",
+      "Name": "Material",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Material",
+      "GUID": "{708A8595-B27A-4F6C-A816-1D7DB8048C42}",
+      "Switches": [
+       {
+        "Id": "2058049674",
+        "Name": "Wood",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Wood",
+        "GUID": "{805FC1E5-DEA8-41CD-AD59-5DD5895DADAB}"
+       },
+       {
+        "Id": "2144363834",
+        "Name": "Rock",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Rock",
+        "GUID": "{9562EEFE-DCAF-4A6A-8253-C5BBA877D1B8}"
+       },
+       {
+        "Id": "2195636714",
+        "Name": "Dirt",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Dirt",
+        "GUID": "{DD595E78-8E54-4F59-B695-FEB5B1DB4BC5}"
+       },
+       {
+        "Id": "4248645337",
+        "Name": "Grass",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Grass",
+        "GUID": "{08B3E5D0-6BAE-46C8-A1EF-570F6B4CDDDA}"
+       }
+      ]
+     }
+    ],
     "AcousticTextures": [
      {
       "Id": "504532776",
@@ -614,6 +662,6 @@
     ]
    }
   ],
-  "FileHash": "{8742260D-3C96-B505-BD18-1EA628FB52F7}"
+  "FileHash": "{BA07E51A-B7E6-9613-7346-C24FBB1E3287}"
  }
 }
