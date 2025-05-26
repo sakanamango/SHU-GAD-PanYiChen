@@ -47,6 +47,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_Girls_Sound" ID="{8A4A0736-9CAE-46E6-B99F-45DC3CBB0AA6}">
+					<ChildrenList>
+						<Action Name="" ID="{E55DC00E-6756-4D2A-9AD4-E31B3A14F226}" ShortID="32625821">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Girls_Sound" ID="{500A6116-A5C4-4634-8427-B8FD3083B518}" WorkUnitID="{1AC1E8CB-602C-4B33-8501-66E6C3108EC0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

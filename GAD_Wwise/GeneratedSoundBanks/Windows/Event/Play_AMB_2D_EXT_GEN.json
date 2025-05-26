@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{D38B6665-9349-46B4-806B-07E4938CF941}",
     "Language": "SFX",
-    "Hash": "{E2F6C679-ECFE-5327-294B-1CA13603E000}",
+    "Hash": "{458207F4-224C-CCB0-44C9-42E273427382}",
     "ObjectPath": "Play_AMB_2D_EXT_GEN",
     "ShortName": "Play_AMB_2D_EXT_GEN",
     "Path": "Event/Play_AMB_2D_EXT_GEN.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{911F0498-2985-0211-A626-AF6E0816AE54}"
+  "FileHash": "{4E624C3B-5711-3B8A-5E3B-006D40BA3401}"
  }
 }

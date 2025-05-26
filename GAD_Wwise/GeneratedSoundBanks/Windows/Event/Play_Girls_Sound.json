@@ -1,0 +1,71 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3663066427",
+    "Type": "Event",
+    "GUID": "{8A4A0736-9CAE-46E6-B99F-45DC3CBB0AA6}",
+    "Language": "SFX",
+    "Hash": "{9D579D45-D846-E675-2C42-15E7F8CD3B5B}",
+    "ObjectPath": "Play_Girls_Sound",
+    "ShortName": "Play_Girls_Sound",
+    "Path": "Event/Play_Girls_Sound.bnk",
+    "Media": [
+     {
+      "Id": "81941417",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VO_Female_WwiseSpatialAudio_P2.wav",
+      "Path": "Media/81941417.wem",
+      "CachePath": "5A/{5A6EC71C-A3C6-C23F-5BE5-29C7DA226CC1}.wem"
+     },
+     {
+      "Id": "247856226",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VO_Female_WwiseSpatialAudio_P3.wav",
+      "Path": "Media/247856226.wem",
+      "CachePath": "65/{6512124E-4404-DE87-71B9-FAB4E6C4D35C}.wem"
+     },
+     {
+      "Id": "504330862",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VO_Female_WwiseSpatialAudio_P1.wav",
+      "Path": "Media/504330862.wem",
+      "CachePath": "9D/{9DC0674F-1E17-DD64-B572-690C41336EAF}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3663066427",
+      "Name": "Play_Girls_Sound",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Girls_Sound",
+      "GUID": "{8A4A0736-9CAE-46E6-B99F-45DC3CBB0AA6}",
+      "MaxAttenuation": "2000",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "81941417"
+       },
+       {
+        "Id": "247856226"
+       },
+       {
+        "Id": "504330862"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{6AD91117-D573-FE1F-D43C-260C6ACBC36E}"
+ }
+}

@@ -956,9 +956,23 @@
 										</GroupingList>
 									</GroupingInfo>
 								</SwitchContainer>
+								<SwitchContainer Name="Foley_FS_Run_Sneeker" ID="{1F3071BA-5B49-4574-BD7B-31F0810C6FA0}" ShortID="493170673">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{28F1A272-442C-4556-B41C-4AA2A6ACD747}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D3693322-BB80-456C-A656-0820178A2767}"/>
+										</Reference>
+									</ReferenceList>
+									<GroupingInfo/>
+								</SwitchContainer>
 							</ChildrenList>
 							<GroupingInfo>
 								<GroupingBehaviorList>
+									<GroupingBehavior>
+										<ItemRef Name="Foley_FS_Run_Sneeker" ID="{1F3071BA-5B49-4574-BD7B-31F0810C6FA0}"/>
+									</GroupingBehavior>
 									<GroupingBehavior>
 										<ItemRef Name="Foley_FS_Run_Highheel" ID="{BD0D48E8-1424-43A1-A290-1B7D9CD24850}"/>
 									</GroupingBehavior>
