@@ -181,6 +181,37 @@
 						<ActiveSource Name="FOL_FS_Jump_Water_Deep_01" ID="{987C6C7A-B216-4396-876E-E0C9EF8608A3}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="AMB_2D_EXT_GEN" ID="{59734C13-A3B3-4323-9000-E8CDDF5D334F}" ShortID="533843743">
+					<PropertyList>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
+						<Property Name="EnableDiffraction" Type="bool" Value="True"/>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-13</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{28F1A272-442C-4556-B41C-4AA2A6ACD747}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D3693322-BB80-456C-A656-0820178A2767}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="AMB_2D_EXT_GEN" ID="{D4CE23DD-18C1-429A-AEAC-AED0E383609A}">
+							<Language>SFX</Language>
+							<AudioFile>AMB_2D_EXT_GEN.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="1003979446"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="AMB_2D_EXT_GEN" ID="{D4CE23DD-18C1-429A-AEAC-AED0E383609A}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

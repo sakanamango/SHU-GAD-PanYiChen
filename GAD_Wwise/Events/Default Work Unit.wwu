@@ -36,6 +36,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_AMB_2D_EXT_GEN" ID="{D38B6665-9349-46B4-806B-07E4938CF941}">
+					<ChildrenList>
+						<Action Name="" ID="{759D8CC7-C304-4E51-8B76-31456BF4ED5E}" ShortID="274891847">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_2D_EXT_GEN" ID="{59734C13-A3B3-4323-9000-E8CDDF5D334F}" WorkUnitID="{FCF38ACA-3F82-4328-BC5A-708A5E3FD765}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

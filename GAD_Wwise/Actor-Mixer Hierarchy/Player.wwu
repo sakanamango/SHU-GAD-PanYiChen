@@ -34,6 +34,13 @@
 							</ReferenceList>
 						</ActorMixer>
 						<SwitchContainer Name="Foley_FS_Run" ID="{69BF8E55-B5B6-49A6-AAB5-72B3A21EEB6F}" ShortID="636668150">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-4</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{28F1A272-442C-4556-B41C-4AA2A6ACD747}"/>
