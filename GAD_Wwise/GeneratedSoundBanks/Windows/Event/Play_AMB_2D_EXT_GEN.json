@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{D38B6665-9349-46B4-806B-07E4938CF941}",
     "Language": "SFX",
-    "Hash": "{458207F4-224C-CCB0-44C9-42E273427382}",
+    "Hash": "{214446E3-C5E0-2815-0DCA-E631EDE62E61}",
     "ObjectPath": "Play_AMB_2D_EXT_GEN",
     "ShortName": "Play_AMB_2D_EXT_GEN",
     "Path": "Event/Play_AMB_2D_EXT_GEN.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "AMB_2D_EXT_GEN.wav",
       "Path": "Media/1003979446.wem",
-      "CachePath": "EB/{EB8A0970-6B03-1B40-3A53-7B3B852EBF5F}.wem"
+      "CachePath": "D8/{D84EC58C-FEC2-71DC-AE7C-633669A0EF0F}.wem"
      }
     ],
     "Events": [
@@ -31,9 +31,7 @@
       "Name": "Play_AMB_2D_EXT_GEN",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_AMB_2D_EXT_GEN",
       "GUID": "{D38B6665-9349-46B4-806B-07E4938CF941}",
-      "DurationType": "OneShot",
-      "DurationMin": "30",
-      "DurationMax": "30",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "1003979446"
@@ -43,6 +41,6 @@
     ]
    }
   ],
-  "FileHash": "{4E624C3B-5711-3B8A-5E3B-006D40BA3401}"
+  "FileHash": "{5244EBEF-26FF-7163-EBF4-887971C13EE7}"
  }
 }

@@ -41,7 +41,7 @@
 						<Action Name="" ID="{759D8CC7-C304-4E51-8B76-31456BF4ED5E}" ShortID="274891847">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="AMB_2D_EXT_GEN" ID="{59734C13-A3B3-4323-9000-E8CDDF5D334F}" WorkUnitID="{FCF38ACA-3F82-4328-BC5A-708A5E3FD765}"/>
+									<ObjectRef Name="AMB_2D_EXT_GEN" ID="{59734C13-A3B3-4323-9000-E8CDDF5D334F}" WorkUnitID="{D182013D-5985-48DB-A5E9-1FFF3E2252E1}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
